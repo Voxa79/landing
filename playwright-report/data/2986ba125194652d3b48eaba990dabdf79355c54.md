@@ -1,0 +1,312 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - img [ref=e9]
+        - generic [ref=e19]:
+          - generic [ref=e20]: Local AI
+          - generic [ref=e21]: Ecosystem
+      - navigation [ref=e22]:
+        - link "Écosystème" [ref=e24] [cursor=pointer]:
+          - /url: /ecosystem
+          - img [ref=e25] [cursor=pointer]
+          - generic [ref=e30] [cursor=pointer]: Écosystème
+        - link "Solutions" [ref=e32] [cursor=pointer]:
+          - /url: /solutions
+          - img [ref=e33] [cursor=pointer]
+          - generic [ref=e35] [cursor=pointer]: Solutions
+        - link "Expertise" [ref=e37] [cursor=pointer]:
+          - /url: /expertise
+          - img [ref=e38] [cursor=pointer]
+          - generic [ref=e43] [cursor=pointer]: Expertise
+        - link "ROI Calculator" [ref=e45] [cursor=pointer]:
+          - /url: /roi-calculator
+          - img [ref=e46] [cursor=pointer]
+          - generic [ref=e48] [cursor=pointer]: ROI Calculator
+        - link "Ressources" [ref=e50] [cursor=pointer]:
+          - /url: /resources
+          - img [ref=e51] [cursor=pointer]
+          - generic [ref=e53] [cursor=pointer]: Ressources
+        - link "Contact" [ref=e55] [cursor=pointer]:
+          - /url: /contact
+          - img [ref=e56] [cursor=pointer]
+          - generic [ref=e58] [cursor=pointer]: Contact
+      - generic [ref=e59]:
+        - link "Démo Live" [ref=e61] [cursor=pointer]:
+          - /url: /demo
+        - button "Support 24/7" [ref=e62] [cursor=pointer]:
+          - img [ref=e63] [cursor=pointer]
+          - generic [ref=e65] [cursor=pointer]: Support 24/7
+  - generic [ref=e67]:
+    - generic [ref=e68]:
+      - heading "Ollama - LLM Local" [level=1] [ref=e69]:
+        - img [ref=e70]
+        - text: Ollama - LLM Local
+      - paragraph [ref=e80]: Plateforme d'exécution de grands modèles linguistiques localement, sans frais de token et avec une confidentialité maximale.
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - img [ref=e84]
+        - heading "LLM Local" [level=3] [ref=e94]
+        - paragraph [ref=e95]: Exécution de modèles d'intelligence artificielle localement sans frais de token.
+      - generic [ref=e96]:
+        - img [ref=e98]
+        - heading "Haute Performance" [level=3] [ref=e100]
+        - paragraph [ref=e101]: Inférence rapide avec optimisation GPU/CPU pour des réponses instantanées.
+      - generic [ref=e102]:
+        - img [ref=e104]
+        - heading "Confidentialité Maximale" [level=3] [ref=e106]
+        - paragraph [ref=e107]: Vos données ne quittent jamais votre infrastructure.
+      - generic [ref=e108]:
+        - img [ref=e110]
+        - heading "Personnalisation" [level=3] [ref=e113]
+        - paragraph [ref=e114]: Adaptez les modèles à vos cas d'usage spécifiques.
+    - generic [ref=e115]:
+      - heading "Spécifications Techniques" [level=2] [ref=e116]
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - generic [ref=e119]: 50+
+          - generic [ref=e120]: Modèles Supportés
+        - generic [ref=e121]:
+          - generic [ref=e122]: GGUF
+          - generic [ref=e123]: Formats
+        - generic [ref=e124]:
+          - generic [ref=e125]: GPU/CPU
+          - generic [ref=e126]: Accélération
+        - generic [ref=e127]:
+          - generic [ref=e128]: REST
+          - generic [ref=e129]: API
+        - generic [ref=e130]:
+          - generic [ref=e131]: Docker
+          - generic [ref=e132]: Conteneurs
+        - generic [ref=e133]:
+          - generic [ref=e134]: MIT
+          - generic [ref=e135]: Licence
+    - generic [ref=e136]:
+      - generic [ref=e137]:
+        - heading "Cas d'Usage" [level=2] [ref=e138]:
+          - img [ref=e139]
+          - text: Cas d'Usage
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - img [ref=e145]
+            - generic [ref=e148]:
+              - heading "Chat Assistant" [level=3] [ref=e149]
+              - paragraph [ref=e150]: Interface conversationnelle pour l'assistance et le support.
+          - generic [ref=e151]:
+            - img [ref=e153]
+            - generic [ref=e157]:
+              - heading "Analyse Documentaire" [level=3] [ref=e158]
+              - paragraph [ref=e159]: Extraction d'informations et synthèse de documents complexes.
+          - generic [ref=e160]:
+            - img [ref=e162]
+            - generic [ref=e166]:
+              - heading "Génération de Code" [level=3] [ref=e167]
+              - paragraph [ref=e168]: Assistance au développement avec génération de code intelligente.
+          - generic [ref=e169]:
+            - img [ref=e171]
+            - generic [ref=e174]:
+              - heading "Intégration API" [level=3] [ref=e175]
+              - paragraph [ref=e176]: Déploiement de modèles via des endpoints RESTful.
+      - generic [ref=e177]:
+        - heading "Intégrations" [level=2] [ref=e178]
+        - generic [ref=e179]:
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - heading "Open WebUI" [level=3] [ref=e182]
+              - generic [ref=e183]: Connecté
+            - paragraph [ref=e184]: Interface chat pour interagir avec vos modèles locaux.
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - heading "N8N" [level=3] [ref=e187]
+              - generic [ref=e188]: Connecté
+            - paragraph [ref=e189]: Automatisation des workflows avec des modèles LLM.
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - heading "Flowise" [level=3] [ref=e192]
+              - generic [ref=e193]: Connecté
+            - paragraph [ref=e194]: Création d'agents conversationnels avec des modèles locaux.
+        - generic [ref=e195]:
+          - heading "Déploiement Auto-hébergé" [level=3] [ref=e196]
+          - paragraph [ref=e197]: Déployez Ollama sur votre infrastructure avec Docker.
+          - link "Documentation" [ref=e198] [cursor=pointer]:
+            - /url: https://ollama.com/
+    - generic [ref=e199]:
+      - heading "Prêt à exécuter des LLM localement ?" [level=2] [ref=e200]
+      - paragraph [ref=e201]: Intégrez Ollama à votre écosystème IA pour une confidentialité maximale.
+      - generic [ref=e202]:
+        - link "Accéder à Ollama" [ref=e203] [cursor=pointer]:
+          - /url: http://localhost:11434
+        - paragraph [ref=e205]: "URL: http://localhost:11434"
+        - link "Documentation" [ref=e206] [cursor=pointer]:
+          - /url: https://ollama.com/
+  - generic [ref=e208]:
+    - img [ref=e211]
+    - heading "Besoin d'une réponse immédiate ?" [level=2] [ref=e213]
+    - paragraph [ref=e214]: Notre assistant IA Local AI est disponible 24/7 pour répondre instantanément à vos questions techniques, vous guider dans l'implémentation de votre projet ou vous aider à résoudre vos problèmes.
+    - generic [ref=e215]:
+      - button "Support urgente 24/7" [ref=e216] [cursor=pointer]:
+        - img [ref=e217] [cursor=pointer]
+        - generic [ref=e219] [cursor=pointer]: Assistant IA 24/7
+        - img [ref=e220] [cursor=pointer]
+      - generic [ref=e225]: IA disponible maintenant
+    - generic [ref=e226]:
+      - generic [ref=e229]: Réponse instantanée
+      - generic [ref=e232]: IA spécialisée Local AI
+      - generic [ref=e235]: Toujours disponible
+  - contentinfo [ref=e236]:
+    - generic [ref=e237]:
+      - generic [ref=e238]:
+        - generic [ref=e239]:
+          - generic [ref=e240]:
+            - img [ref=e241]
+            - generic [ref=e251]:
+              - heading "Local AI Ecosystem" [level=3] [ref=e252]
+              - paragraph [ref=e253]: L'IA Souveraine pour l'Entreprise
+          - paragraph [ref=e254]: Transformez vos défis d'IA en avantages concurrentiels avec notre écosystème complet auto-hébergé. Sécurité maximale, conformité garantie, ROI prouvé.
+          - generic [ref=e255]:
+            - generic [ref=e256]:
+              - generic [ref=e257]: 500+
+              - generic [ref=e258]: Entreprises
+            - generic [ref=e259]:
+              - generic [ref=e260]: €12M+
+              - generic [ref=e261]: Économisés
+          - generic [ref=e262]:
+            - heading "Restez informé des évolutions IA" [level=4] [ref=e263]
+            - generic [ref=e264]:
+              - textbox "votre@email.com" [ref=e265]
+              - button "OK" [ref=e266] [cursor=pointer]
+        - generic [ref=e267]:
+          - heading "Services IA" [level=4] [ref=e268]:
+            - img [ref=e269]
+            - text: Services IA
+          - list [ref=e274]:
+            - listitem [ref=e275]:
+              - link "Ollama (LLM Local)" [ref=e276] [cursor=pointer]:
+                - /url: /services/ollama
+                - img [ref=e277] [cursor=pointer]
+                - text: Ollama (LLM Local)
+            - listitem [ref=e287]:
+              - link "N8N (Automation)" [ref=e288] [cursor=pointer]:
+                - /url: /services/n8n
+                - img [ref=e289] [cursor=pointer]
+                - text: N8N (Automation)
+            - listitem [ref=e293]:
+              - link "Qdrant (Vector DB)" [ref=e294] [cursor=pointer]:
+                - /url: /services/qdrant
+                - img [ref=e295] [cursor=pointer]
+                - text: Qdrant (Vector DB)
+            - listitem [ref=e299]:
+              - link "Open WebUI" [ref=e300] [cursor=pointer]:
+                - /url: /services/open-webui
+                - img [ref=e301] [cursor=pointer]
+                - text: Open WebUI
+            - listitem [ref=e304]:
+              - link "Supabase" [ref=e305] [cursor=pointer]:
+                - /url: /services/supabase
+                - img [ref=e306] [cursor=pointer]
+                - text: Supabase
+            - listitem [ref=e309]:
+              - link "SearXNG (Search)" [ref=e310] [cursor=pointer]:
+                - /url: /services/searxng
+                - img [ref=e311] [cursor=pointer]
+                - text: SearXNG (Search)
+            - listitem [ref=e314]:
+              - link "Neo4j (Graph DB)" [ref=e315] [cursor=pointer]:
+                - /url: /services/neo4j
+                - img [ref=e316] [cursor=pointer]
+                - text: Neo4j (Graph DB)
+            - listitem [ref=e320]:
+              - link "Langfuse (Observability)" [ref=e321] [cursor=pointer]:
+                - /url: /services/langfuse
+                - img [ref=e322] [cursor=pointer]
+                - text: Langfuse (Observability)
+        - generic [ref=e325]:
+          - heading "Solutions Business" [level=4] [ref=e326]:
+            - img [ref=e327]
+            - text: Solutions Business
+          - list [ref=e330]:
+            - listitem [ref=e331]:
+              - link "Finance & Banque" [ref=e332] [cursor=pointer]:
+                - /url: /solutions/finance
+                - img [ref=e333] [cursor=pointer]
+                - text: Finance & Banque
+            - listitem [ref=e336]:
+              - link "Legal & Conseil" [ref=e337] [cursor=pointer]:
+                - /url: /solutions/legal
+                - img [ref=e338] [cursor=pointer]
+                - text: Legal & Conseil
+            - listitem [ref=e342]:
+              - link "Manufacturing" [ref=e343] [cursor=pointer]:
+                - /url: /solutions/manufacturing
+                - img [ref=e344] [cursor=pointer]
+                - text: Manufacturing
+            - listitem [ref=e346]:
+              - link "Santé & Pharmaceutique" [ref=e347] [cursor=pointer]:
+                - /url: /solutions/healthcare
+                - img [ref=e348] [cursor=pointer]
+                - text: Santé & Pharmaceutique
+            - listitem [ref=e350]:
+              - link "Secteur Public" [ref=e351] [cursor=pointer]:
+                - /url: /solutions/public
+                - img [ref=e352] [cursor=pointer]
+                - text: Secteur Public
+            - listitem [ref=e354]:
+              - link "Éducation & Formation" [ref=e355] [cursor=pointer]:
+                - /url: /solutions/education
+                - img [ref=e356] [cursor=pointer]
+                - text: Éducation & Formation
+            - listitem [ref=e361]:
+              - link "Retail & E-commerce" [ref=e362] [cursor=pointer]:
+                - /url: /solutions/retail
+                - img [ref=e363] [cursor=pointer]
+                - text: Retail & E-commerce
+          - link "Calculer Mon ROI" [ref=e369] [cursor=pointer]:
+            - /url: /roi-calculator
+            - img [ref=e370] [cursor=pointer]
+            - text: Calculer Mon ROI
+        - generic [ref=e372]:
+          - heading "Navigation" [level=4] [ref=e373]:
+            - img [ref=e374]
+            - text: Navigation
+          - list [ref=e379]:
+            - listitem [ref=e380]:
+              - link "Écosystème" [ref=e381] [cursor=pointer]:
+                - /url: /ecosystem
+                - img [ref=e382] [cursor=pointer]
+                - text: Écosystème
+            - listitem [ref=e387]:
+              - link "Solutions" [ref=e388] [cursor=pointer]:
+                - /url: /solutions
+                - img [ref=e389] [cursor=pointer]
+                - text: Solutions
+            - listitem [ref=e391]:
+              - link "Expertise" [ref=e392] [cursor=pointer]:
+                - /url: /expertise
+                - img [ref=e393] [cursor=pointer]
+                - text: Expertise
+            - listitem [ref=e398]:
+              - link "Ressources" [ref=e399] [cursor=pointer]:
+                - /url: /resources
+                - img [ref=e400] [cursor=pointer]
+                - text: Ressources
+            - listitem [ref=e402]:
+              - link "À propos" [ref=e403] [cursor=pointer]:
+                - /url: /about
+                - img [ref=e404] [cursor=pointer]
+                - text: À propos
+      - generic [ref=e407]:
+        - generic [ref=e408]: © 2024 Local AI Ecosystem. Tous droits réservés.
+        - generic [ref=e409]:
+          - generic [ref=e410]:
+            - img [ref=e411]
+            - generic [ref=e413]: RGPD Compliant
+          - generic [ref=e414]:
+            - img [ref=e415]
+            - generic [ref=e419]: AI Act Ready
+          - generic [ref=e420]:
+            - img [ref=e421]
+            - generic [ref=e424]: 🇪🇺 Souveraineté EU
+```

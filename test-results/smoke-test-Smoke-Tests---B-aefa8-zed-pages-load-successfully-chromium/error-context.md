@@ -1,0 +1,697 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - img [ref=e9]
+        - generic [ref=e19]:
+          - generic [ref=e20]: Local AI
+          - generic [ref=e21]: Ecosystem
+      - navigation [ref=e22]:
+        - link "Écosystème" [ref=e24] [cursor=pointer]:
+          - /url: /ecosystem
+          - img [ref=e25] [cursor=pointer]
+          - generic [ref=e30] [cursor=pointer]: Écosystème
+        - link "Solutions" [ref=e32] [cursor=pointer]:
+          - /url: /solutions
+          - img [ref=e33] [cursor=pointer]
+          - generic [ref=e35] [cursor=pointer]: Solutions
+        - link "Expertise" [ref=e37] [cursor=pointer]:
+          - /url: /expertise
+          - img [ref=e38] [cursor=pointer]
+          - generic [ref=e43] [cursor=pointer]: Expertise
+        - link "ROI Calculator" [ref=e45] [cursor=pointer]:
+          - /url: /roi-calculator
+          - img [ref=e46] [cursor=pointer]
+          - generic [ref=e48] [cursor=pointer]: ROI Calculator
+        - link "Ressources" [ref=e50] [cursor=pointer]:
+          - /url: /resources
+          - img [ref=e51] [cursor=pointer]
+          - generic [ref=e53] [cursor=pointer]: Ressources
+        - link "Contact" [ref=e55] [cursor=pointer]:
+          - /url: /contact
+          - img [ref=e56] [cursor=pointer]
+          - generic [ref=e58] [cursor=pointer]: Contact
+      - generic [ref=e59]:
+        - link "Démo Live" [ref=e61] [cursor=pointer]:
+          - /url: /demo
+        - button "Support 24/7" [ref=e62] [cursor=pointer]:
+          - img [ref=e63] [cursor=pointer]
+          - generic [ref=e65] [cursor=pointer]: Support 24/7
+  - generic [ref=e67]:
+    - generic [ref=e68]:
+      - generic [ref=e70]: ✅ AI Act Ready • IA Souveraine • Frugale IA
+      - heading "⚡ Déploiement 48H Garanti Votre Écosystème d'IA Souveraine" [level=1] [ref=e71]:
+        - generic [ref=e72]: ⚡ Déploiement 48H Garanti
+        - text: Votre Écosystème d'
+        - generic [ref=e73]: IA Souveraine
+      - paragraph [ref=e74]:
+        - text: 🚀
+        - strong [ref=e75]: "RÉVOLUTION : FINI LES ABONNEMENTS !"
+        - text: Payez une fois, utilisez à vie avec
+        - strong [ref=e76]: 15+ services intégrés
+        - text: ","
+        - strong [ref=e77]: conformité AI Act
+        - text: ","
+        - strong [ref=e78]: jusqu'à €93K d'économies vs concurrence
+        - text: et
+        - strong [ref=e79]: support premium à 7.90€/mois seulement
+      - generic [ref=e80]:
+        - generic [ref=e82]:
+          - img [ref=e83]
+          - generic [ref=e85]: 48H
+          - generic [ref=e86]: Déploiement
+        - generic [ref=e88]:
+          - img [ref=e89]
+          - generic [ref=e99]: 15+
+          - generic [ref=e100]: Services IA
+        - generic [ref=e102]:
+          - img [ref=e103]
+          - generic [ref=e106]: À VIE
+          - generic [ref=e107]: Licence
+        - generic [ref=e109]:
+          - img [ref=e110]
+          - generic [ref=e113]: €93K
+          - generic [ref=e114]: Économies Max
+        - generic [ref=e116]:
+          - img [ref=e117]
+          - generic [ref=e122]: 7.90€/m
+          - generic [ref=e123]: Support Premium
+        - generic [ref=e125]:
+          - img [ref=e126]
+          - generic [ref=e129]: 500+
+          - generic [ref=e130]: Clients Satisfaits
+      - generic [ref=e131]:
+        - generic [ref=e132]:
+          - generic [ref=e133]: GRATUIT
+          - link "🚀 DÉMO EXCLUSIVE EN 15MIN (GRATUITE)" [ref=e134] [cursor=pointer]:
+            - /url: /demo
+            - img [ref=e135] [cursor=pointer]
+            - text: 🚀 DÉMO EXCLUSIVE EN 15MIN (GRATUITE)
+        - link "🚀 CALCUL TARIF À VIE VS ABONNEMENT" [ref=e138] [cursor=pointer]:
+          - /url: /roi-calculator
+          - img [ref=e139] [cursor=pointer]
+          - text: 🚀 CALCUL TARIF À VIE VS ABONNEMENT
+      - generic [ref=e142]:
+        - generic [ref=e143]:
+          - img [ref=e144]
+          - generic [ref=e147]: "⚡ OFFRE LIMITÉE : 15 CONSULTATIONS GRATUITES/MOIS"
+          - img [ref=e148]
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - generic [ref=e153]: 500+
+            - generic [ref=e154]: Entreprises
+          - generic [ref=e155]:
+            - generic [ref=e156]: €12M+
+            - generic [ref=e157]: Économisés
+          - generic [ref=e158]:
+            - generic [ref=e159]: 48H
+            - generic [ref=e160]: Déploiement Garanti
+      - generic [ref=e161]:
+        - paragraph [ref=e162]: Ils nous font confiance
+        - generic [ref=e163]:
+          - generic [ref=e164]: BNP PARIBAS
+          - generic [ref=e165]: CREDIT AGRICOLE
+          - generic [ref=e166]: TOTALENERGIES
+          - generic [ref=e167]: MINISTÈRE
+          - generic [ref=e168]: SANOFI
+      - generic [ref=e169]:
+        - generic [ref=e170]:
+          - img [ref=e171]
+          - generic [ref=e173]: "✅ GARANTIE 48H : Opérationnel ou 100% Remboursé"
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - img [ref=e176]
+            - generic [ref=e178]: "🔥 Ligne urgence : +33 1 23 45 67 90"
+          - generic [ref=e179]:
+            - img [ref=e180]
+            - generic [ref=e183]: ⚡ Réponse sous 1h
+          - button "Chat IA 24/7" [ref=e184] [cursor=pointer]:
+            - img [ref=e185] [cursor=pointer]
+            - text: Chat IA 24/7
+    - generic [ref=e187]:
+      - generic [ref=e188]:
+        - heading "Écosystème IA Complet" [level=2] [ref=e189]:
+          - img [ref=e190]
+          - text: Écosystème IA Complet
+        - paragraph [ref=e195]: 15+ services intégrés pour une plateforme IA complète et autonome
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - img [ref=e198]
+          - heading "Ollama" [level=4] [ref=e208]
+          - paragraph [ref=e209]: LLMs Locaux
+        - generic [ref=e210]:
+          - img [ref=e211]
+          - heading "Open WebUI" [level=4] [ref=e213]
+          - paragraph [ref=e214]: Interface Chat
+        - generic [ref=e215]:
+          - img [ref=e216]
+          - heading "N8N" [level=4] [ref=e221]
+          - paragraph [ref=e222]: Automation
+        - generic [ref=e223]:
+          - img [ref=e224]
+          - heading "Supabase" [level=4] [ref=e226]
+          - paragraph [ref=e227]: Base de données
+        - generic [ref=e228]:
+          - img [ref=e229]
+          - heading "Qdrant" [level=4] [ref=e231]
+          - paragraph [ref=e232]: Vector Store
+        - generic [ref=e233]:
+          - img [ref=e234]
+          - heading "Neo4j" [level=4] [ref=e239]
+          - paragraph [ref=e240]: Graph DB
+      - link "Explorer l'Écosystème Complet" [ref=e242] [cursor=pointer]:
+        - /url: /ecosystem
+        - text: Explorer l'Écosystème Complet
+        - img [ref=e243] [cursor=pointer]
+    - generic [ref=e245]:
+      - generic [ref=e246]:
+        - heading "Solutions par Secteur & Cas d'usages" [level=2] [ref=e247]:
+          - img [ref=e248]
+          - text: Solutions par Secteur & Cas d'usages
+        - paragraph [ref=e251]: IA adaptée aux spécificités et contraintes de votre industrie
+      - generic [ref=e252]:
+        - link "Finance & Banque Conformité ACPR, analyse risque Découvrir" [ref=e254] [cursor=pointer]:
+          - /url: /solutions/finance
+          - img [ref=e255] [cursor=pointer]
+          - heading "Finance & Banque" [level=3] [ref=e258] [cursor=pointer]
+          - paragraph [ref=e259] [cursor=pointer]: Conformité ACPR, analyse risque
+          - generic [ref=e260] [cursor=pointer]:
+            - text: Découvrir
+            - img [ref=e261] [cursor=pointer]
+        - link "Legal & Conseil Confidentialité totale, research juridique Découvrir" [ref=e264] [cursor=pointer]:
+          - /url: /solutions/legal
+          - img [ref=e265] [cursor=pointer]
+          - heading "Legal & Conseil" [level=3] [ref=e269] [cursor=pointer]
+          - paragraph [ref=e270] [cursor=pointer]: Confidentialité totale, research juridique
+          - generic [ref=e271] [cursor=pointer]:
+            - text: Découvrir
+            - img [ref=e272] [cursor=pointer]
+        - link "Manufacturing Maintenance prédictive, optimisation Découvrir" [ref=e275] [cursor=pointer]:
+          - /url: /solutions/manufacturing
+          - img [ref=e276] [cursor=pointer]
+          - heading "Manufacturing" [level=3] [ref=e278] [cursor=pointer]
+          - paragraph [ref=e279] [cursor=pointer]: Maintenance prédictive, optimisation
+          - generic [ref=e280] [cursor=pointer]:
+            - text: Découvrir
+            - img [ref=e281] [cursor=pointer]
+        - link "Support Client 24/7 Assistance intelligente, satisfaction client Découvrir" [ref=e284] [cursor=pointer]:
+          - /url: /solutions/support-client
+          - img [ref=e285] [cursor=pointer]
+          - heading "Support Client 24/7" [level=3] [ref=e287] [cursor=pointer]
+          - paragraph [ref=e288] [cursor=pointer]: Assistance intelligente, satisfaction client
+          - generic [ref=e289] [cursor=pointer]:
+            - text: Découvrir
+            - img [ref=e290] [cursor=pointer]
+        - link "Analyse Documentaire Extraction insights, traitement masse Découvrir" [ref=e293] [cursor=pointer]:
+          - /url: /solutions/document-analysis
+          - img [ref=e294] [cursor=pointer]
+          - heading "Analyse Documentaire" [level=3] [ref=e297] [cursor=pointer]
+          - paragraph [ref=e298] [cursor=pointer]: Extraction insights, traitement masse
+          - generic [ref=e299] [cursor=pointer]:
+            - text: Découvrir
+            - img [ref=e300] [cursor=pointer]
+      - link "Explorer les Secteurs et Cas d'usages Complet" [ref=e303] [cursor=pointer]:
+        - /url: /solutions
+        - button "Explorer les Secteurs et Cas d'usages Complet" [ref=e304] [cursor=pointer]:
+          - text: Explorer les Secteurs et Cas d'usages Complet
+          - img [ref=e305] [cursor=pointer]
+    - generic [ref=e307]:
+      - generic [ref=e308]:
+        - heading "Choisissez Votre Approche" [level=2] [ref=e309]:
+          - img [ref=e310]
+          - text: Choisissez Votre Approche
+        - paragraph [ref=e313]: Trois modalités d'accompagnement selon vos besoins et ressources
+      - generic [ref=e314]:
+        - link "Done For You Clé en main, 4-8 semaines Équipe dédiée Support 3 mois ROI 300-500% En savoir plus" [ref=e316] [cursor=pointer]:
+          - /url: /expertise/dfy
+          - img [ref=e317] [cursor=pointer]
+          - heading "Done For You" [level=3] [ref=e321] [cursor=pointer]
+          - paragraph [ref=e322] [cursor=pointer]: Clé en main, 4-8 semaines
+          - generic [ref=e323] [cursor=pointer]:
+            - generic [ref=e324] [cursor=pointer]:
+              - img [ref=e325] [cursor=pointer]
+              - text: Équipe dédiée
+            - generic [ref=e328] [cursor=pointer]:
+              - img [ref=e329] [cursor=pointer]
+              - text: Support 3 mois
+            - generic [ref=e332] [cursor=pointer]:
+              - img [ref=e333] [cursor=pointer]
+              - text: ROI 300-500%
+          - generic [ref=e336] [cursor=pointer]:
+            - text: En savoir plus
+            - img [ref=e337] [cursor=pointer]
+        - link "Done With You Collaboration, formation incluse Formation 20-40h Support 2 mois ROI 200-350% En savoir plus" [ref=e340] [cursor=pointer]:
+          - /url: /expertise/dwy
+          - img [ref=e341] [cursor=pointer]
+          - heading "Done With You" [level=3] [ref=e346] [cursor=pointer]
+          - paragraph [ref=e347] [cursor=pointer]: Collaboration, formation incluse
+          - generic [ref=e348] [cursor=pointer]:
+            - generic [ref=e349] [cursor=pointer]:
+              - img [ref=e350] [cursor=pointer]
+              - text: Formation 20-40h
+            - generic [ref=e353] [cursor=pointer]:
+              - img [ref=e354] [cursor=pointer]
+              - text: Support 2 mois
+            - generic [ref=e357] [cursor=pointer]:
+              - img [ref=e358] [cursor=pointer]
+              - text: ROI 200-350%
+          - generic [ref=e361] [cursor=pointer]:
+            - text: En savoir plus
+            - img [ref=e362] [cursor=pointer]
+        - link "Do It Yourself Ressources complètes, autonomie Accès 24/7 Documentation ROI 150-250% En savoir plus" [ref=e365] [cursor=pointer]:
+          - /url: /expertise/diy
+          - img [ref=e366] [cursor=pointer]
+          - heading "Do It Yourself" [level=3] [ref=e368] [cursor=pointer]
+          - paragraph [ref=e369] [cursor=pointer]: Ressources complètes, autonomie
+          - generic [ref=e370] [cursor=pointer]:
+            - generic [ref=e371] [cursor=pointer]:
+              - img [ref=e372] [cursor=pointer]
+              - text: Accès 24/7
+            - generic [ref=e375] [cursor=pointer]:
+              - img [ref=e376] [cursor=pointer]
+              - text: Documentation
+            - generic [ref=e379] [cursor=pointer]:
+              - img [ref=e380] [cursor=pointer]
+              - text: ROI 150-250%
+          - generic [ref=e383] [cursor=pointer]:
+            - text: En savoir plus
+            - img [ref=e384] [cursor=pointer]
+    - generic [ref=e386]:
+      - generic [ref=e387]:
+        - heading "Ce Que Disent Nos Clients" [level=2] [ref=e388]:
+          - img [ref=e389]
+          - text: Ce Que Disent Nos Clients
+        - paragraph [ref=e391]: +500 entreprises nous font confiance pour leur transformation IA
+      - generic [ref=e392]:
+        - generic [ref=e393]:
+          - generic [ref=e394]:
+            - generic [ref=e395]: BP
+            - generic [ref=e396]:
+              - generic [ref=e397]: BNP Paribas
+              - generic [ref=e398]: Direction Conformité
+          - generic [ref=e399]:
+            - img [ref=e400]
+            - img [ref=e402]
+            - img [ref=e404]
+            - img [ref=e406]
+            - img [ref=e408]
+          - paragraph [ref=e410]: "\"48h pour déployer une solution IA conforme ACPR. Impossible avec les solutions cloud américaines. ROI de 310% en 6 mois.\""
+          - generic [ref=e411]: "💰 Économies : €2.8M/an vs solutions cloud"
+        - generic [ref=e412]:
+          - generic [ref=e413]:
+            - generic [ref=e414]: TE
+            - generic [ref=e415]:
+              - generic [ref=e416]: TotalEnergies
+              - generic [ref=e417]: Direction Innovation
+          - generic [ref=e418]:
+            - img [ref=e419]
+            - img [ref=e421]
+            - img [ref=e423]
+            - img [ref=e425]
+            - img [ref=e427]
+          - paragraph [ref=e429]: "\"Maintenance prédictive sur 200+ sites industriels. 40% de réduction des pannes non planifiées. Performance exceptionnelle.\""
+          - generic [ref=e430]: "💰 Économies : €5.2M/an en maintenance"
+        - generic [ref=e431]:
+          - generic [ref=e432]:
+            - generic [ref=e433]: SF
+            - generic [ref=e434]:
+              - generic [ref=e435]: Sanofi
+              - generic [ref=e436]: Recherche Clinique
+          - generic [ref=e437]:
+            - img [ref=e438]
+            - img [ref=e440]
+            - img [ref=e442]
+            - img [ref=e444]
+            - img [ref=e446]
+          - paragraph [ref=e448]: "\"Analyse de millions de documents médicaux en conformité RGPD. Résultats 10x plus rapides que nos anciennes solutions.\""
+          - generic [ref=e449]: "💰 Économies : €1.8M/an en traitement"
+      - generic [ref=e450]:
+        - generic [ref=e451]:
+          - 'heading "🚀 RÉVOLUTIONNAIRE : Tarification À VIE !" [level=3] [ref=e452]'
+          - paragraph [ref=e453]:
+            - strong [ref=e454]: FINI LES ABONNEMENTS !
+            - text: Payez une fois, utilisez à vie + Support Premium optionnel
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - generic [ref=e457]:
+              - generic [ref=e458]: €2,990
+              - generic [ref=e459]: €30,000/an
+              - generic [ref=e460]: LICENCE À VIE
+            - generic [ref=e461]: Pack Starter PME
+            - generic [ref=e462]:
+              - text: • Jusqu'à 50 utilisateurs
+              - text: • 15+ services IA inclus
+              - text: • Déploiement 48H
+              - text: • Formation 8h incluse
+            - generic [ref=e463]:
+              - generic [ref=e464]: + Support Premium (optionnel)
+              - generic [ref=e465]: €7.90/mois
+              - generic [ref=e466]: Mises à jour • Optimisations • Support prioritaire
+          - generic [ref=e467]:
+            - generic [ref=e468]: 🏆 BEST SELLER
+            - generic [ref=e469]:
+              - generic [ref=e470]: €8,990
+              - generic [ref=e471]: €102,000/an
+              - generic [ref=e472]: LICENCE À VIE
+            - generic [ref=e473]: Pack Business ETI
+            - generic [ref=e474]:
+              - text: • Utilisateurs illimités
+              - text: • IA personnalisée incluse
+              - text: • APIs & intégrations
+              - text: • Formation 24h équipe
+            - generic [ref=e475]:
+              - generic [ref=e476]: + Support Premium VIP
+              - generic [ref=e477]: €9.90/mois
+              - generic [ref=e478]: Support 24/7 • DevOps inclus • Nouvelles IA monthly
+          - generic [ref=e479]:
+            - generic [ref=e480]:
+              - generic [ref=e481]: Sur Devis
+              - generic [ref=e482]: €600K+/an
+              - generic [ref=e483]: LICENCE À VIE
+            - generic [ref=e484]: Pack Enterprise
+            - generic [ref=e485]:
+              - text: • Architecture sur-mesure
+              - text: • Multi-sites & cloud hybride
+              - text: • SLA 99.99% contractuel
+              - text: • Équipe dédiée 6 mois
+            - generic [ref=e486]:
+              - generic [ref=e487]: + Support Enterprise
+              - generic [ref=e488]: Sur Mesure
+              - generic [ref=e489]: Account Manager • R&D partagée • Roadmap privée
+        - generic [ref=e490]:
+          - heading "🎯 POURQUOI C'EST RÉVOLUTIONNAIRE ?" [level=4] [ref=e492]
+          - generic [ref=e493]:
+            - generic [ref=e494]:
+              - generic [ref=e495]: 💰 ÉCONOMIES MASSIVES
+              - generic [ref=e496]:
+                - text: "Starter:"
+                - strong [ref=e497]: €27K économisés
+                - text: vs abonnement sur 1 an
+                - text: "Business:"
+                - strong [ref=e498]: €93K économisés
+                - text: vs concurrence
+            - generic [ref=e499]:
+              - generic [ref=e500]: 🚀 LIBERTÉ TOTALE
+              - generic [ref=e501]:
+                - strong [ref=e502]: Fini les contrats
+                - text: qui vous piègent
+                - strong [ref=e503]: Fini l'inflation
+                - text: des prix annuelle
+            - generic [ref=e504]:
+              - generic [ref=e505]: 🛡️ INVESTISSEMENT SÉCURISÉ
+              - generic [ref=e506]:
+                - strong [ref=e507]: ROI immédiat
+                - text: dès le 2e mois
+                - strong [ref=e508]: Valeur qui augmente
+                - text: avec le temps
+        - generic [ref=e509]:
+          - generic [ref=e510]:
+            - link "💰 CALCULER MES ÉCONOMIES À VIE" [ref=e511] [cursor=pointer]:
+              - /url: /roi-calculator
+              - img [ref=e512] [cursor=pointer]
+              - text: 💰 CALCULER MES ÉCONOMIES À VIE
+            - link "🎯 VOIR TARIFS EN DÉTAIL" [ref=e514] [cursor=pointer]:
+              - /url: /demo
+              - img [ref=e515] [cursor=pointer]
+              - text: 🎯 VOIR TARIFS EN DÉTAIL
+          - paragraph [ref=e517]: ⚡ Calcul personnalisé en 2 minutes • Résultats immédiats • Comparaison avec vos coûts actuels
+    - generic [ref=e518]:
+      - generic [ref=e519]:
+        - heading "Pourquoi Local AI ?" [level=2] [ref=e520]:
+          - img [ref=e521]
+          - text: Pourquoi Local AI ?
+        - paragraph [ref=e523]: La seule plateforme IA européenne qui combine souveraineté, performance et rentabilité
+      - generic [ref=e524]:
+        - generic [ref=e525]:
+          - img [ref=e526]
+          - heading "100% Souverain" [level=3] [ref=e528]
+          - paragraph [ref=e529]: Vos données restent sur votre infrastructure européenne. Conformité RGPD et AI Act native.
+        - generic [ref=e530]:
+          - img [ref=e531]
+          - heading "Déploiement Rapide" [level=3] [ref=e533]
+          - paragraph [ref=e534]: 48 heures pour avoir votre IA opérationnelle vs 6+ mois pour les solutions traditionnelles.
+        - generic [ref=e535]:
+          - img [ref=e536]
+          - heading "ROI Prouvé" [level=3] [ref=e539]
+          - paragraph [ref=e540]: 165% à 285% de ROI selon les secteurs. Économies immédiates sur les coûts cloud.
+        - generic [ref=e541]:
+          - img [ref=e542]
+          - heading "Écosystème Complet" [level=3] [ref=e547]
+          - paragraph [ref=e548]: 15+ services intégrés et harmonisés. Une seule plateforme pour tous vos besoins IA.
+    - generic [ref=e549]:
+      - img [ref=e550]
+      - heading "Calculez Votre ROI en 2 Minutes" [level=2] [ref=e552]
+      - paragraph [ref=e553]: Découvrez les économies potentielles et le retour sur investissement pour votre secteur d'activité
+      - generic [ref=e554]:
+        - link "Calculer Mon ROI" [ref=e555] [cursor=pointer]:
+          - /url: /roi-calculator
+          - img [ref=e556] [cursor=pointer]
+          - text: Calculer Mon ROI
+        - link "Voir la Démo" [ref=e558] [cursor=pointer]:
+          - /url: /demo
+          - img [ref=e559] [cursor=pointer]
+          - text: Voir la Démo
+    - generic [ref=e561]:
+      - heading "Transformez Votre Entreprise avec l'IA Souveraine" [level=2] [ref=e562]
+      - paragraph [ref=e563]: Déployez une intelligence artificielle performante et conforme en 48 heures. Contactez-nous pour une consultation personnalisée.
+      - generic [ref=e564]:
+        - link "Commencer Maintenant" [ref=e565] [cursor=pointer]:
+          - /url: /contact
+          - text: Commencer Maintenant
+          - img [ref=e566] [cursor=pointer]
+        - link "Découvrir Notre Expertise" [ref=e568] [cursor=pointer]:
+          - /url: /expertise
+      - generic [ref=e569]:
+        - generic [ref=e570]:
+          - img [ref=e571]
+          - text: Consultation gratuite
+        - generic [ref=e574]:
+          - img [ref=e575]
+          - text: Réponse sous 24h
+        - generic [ref=e578]:
+          - img [ref=e579]
+          - text: Confidentialité garantie
+  - generic [ref=e583]:
+    - generic [ref=e585]: "⚡ Offre Limitée : Plus que 3 places ce mois"
+    - generic [ref=e586]:
+      - 'heading "🚀 Révolution IA : Licence à Vie" [level=2] [ref=e587]':
+        - text: "🚀 Révolution IA :"
+        - generic [ref=e588]: Licence à Vie
+      - paragraph [ref=e589]:
+        - text: Fini les abonnements coûteux ! Payez
+        - strong [ref=e590]: une seule fois
+        - text: et utilisez votre IA à vie.
+        - strong [ref=e591]: Économisez jusqu'à €93,000
+        - text: dès la première année vs solutions concurrentes.
+    - generic [ref=e592]:
+      - generic [ref=e593]:
+        - generic [ref=e594]: 500+
+        - generic [ref=e595]: Clients Satisfaits
+      - generic [ref=e596]:
+        - generic [ref=e597]: 285%
+        - generic [ref=e598]: ROI Moyen
+      - generic [ref=e599]:
+        - generic [ref=e600]: €93K
+        - generic [ref=e601]: Économies Max
+      - generic [ref=e602]:
+        - generic [ref=e603]: "3"
+        - generic [ref=e604]: Places Restantes
+    - generic [ref=e605]:
+      - link "🎯 Réserver ma Démo VIP Gratuite (Valeur 500€ - Offert ce mois)" [ref=e607] [cursor=pointer]:
+        - /url: /demo
+        - text: 🎯 Réserver ma Démo VIP Gratuite
+        - generic [ref=e608] [cursor=pointer]: (Valeur 500€ - Offert ce mois)
+      - link "📞 Appel Prioritaire +33 1 23 45 67 90 • Réponse sous 1h" [ref=e610] [cursor=pointer]:
+        - /url: /contact
+        - text: 📞 Appel Prioritaire
+        - generic [ref=e611] [cursor=pointer]: +33 1 23 45 67 90 • Réponse sous 1h
+    - generic [ref=e613]:
+      - generic [ref=e614]:
+        - img [ref=e615]
+        - generic [ref=e617]:
+          - strong [ref=e618]: Garantie 48H
+          - text: ou remboursé
+      - generic [ref=e619]:
+        - img [ref=e620]
+        - generic [ref=e623]:
+          - strong [ref=e624]: Support VIP 90J
+          - text: inclus
+      - generic [ref=e625]:
+        - img [ref=e626]
+        - generic [ref=e629]:
+          - strong [ref=e630]: Conformité
+          - text: garantie
+    - generic [ref=e631]:
+      - paragraph [ref=e632]: "⏰ Dernière Chance : Tarif à vie limité à 100 licences seulement"
+      - paragraph [ref=e633]: Après épuisement du stock, retour au modèle d'abonnement traditionnel. Sécurisez votre licence à vie maintenant.
+  - generic [ref=e635]:
+    - img [ref=e638]
+    - heading "Besoin d'une réponse immédiate ?" [level=2] [ref=e640]
+    - paragraph [ref=e641]: Notre assistant IA Local AI est disponible 24/7 pour répondre instantanément à vos questions techniques, vous guider dans l'implémentation de votre projet ou vous aider à résoudre vos problèmes.
+    - generic [ref=e642]:
+      - button "Support urgente 24/7" [ref=e643] [cursor=pointer]:
+        - img [ref=e644] [cursor=pointer]
+        - generic [ref=e646] [cursor=pointer]: Assistant IA 24/7
+        - img [ref=e647] [cursor=pointer]
+      - generic [ref=e652]: IA disponible maintenant
+    - generic [ref=e653]:
+      - generic [ref=e656]: Réponse instantanée
+      - generic [ref=e659]: IA spécialisée Local AI
+      - generic [ref=e662]: Toujours disponible
+  - contentinfo [ref=e663]:
+    - generic [ref=e664]:
+      - generic [ref=e665]:
+        - generic [ref=e666]:
+          - generic [ref=e667]:
+            - img [ref=e668]
+            - generic [ref=e678]:
+              - heading "Local AI Ecosystem" [level=3] [ref=e679]
+              - paragraph [ref=e680]: L'IA Souveraine pour l'Entreprise
+          - paragraph [ref=e681]: Transformez vos défis d'IA en avantages concurrentiels avec notre écosystème complet auto-hébergé. Sécurité maximale, conformité garantie, ROI prouvé.
+          - generic [ref=e682]:
+            - generic [ref=e683]:
+              - generic [ref=e684]: 500+
+              - generic [ref=e685]: Entreprises
+            - generic [ref=e686]:
+              - generic [ref=e687]: €12M+
+              - generic [ref=e688]: Économisés
+          - generic [ref=e689]:
+            - heading "Restez informé des évolutions IA" [level=4] [ref=e690]
+            - generic [ref=e691]:
+              - textbox "votre@email.com" [ref=e692]
+              - button "OK" [ref=e693] [cursor=pointer]
+        - generic [ref=e694]:
+          - heading "Services IA" [level=4] [ref=e695]:
+            - img [ref=e696]
+            - text: Services IA
+          - list [ref=e701]:
+            - listitem [ref=e702]:
+              - link "Ollama (LLM Local)" [ref=e703] [cursor=pointer]:
+                - /url: /services/ollama
+                - img [ref=e704] [cursor=pointer]
+                - text: Ollama (LLM Local)
+            - listitem [ref=e714]:
+              - link "N8N (Automation)" [ref=e715] [cursor=pointer]:
+                - /url: /services/n8n
+                - img [ref=e716] [cursor=pointer]
+                - text: N8N (Automation)
+            - listitem [ref=e720]:
+              - link "Qdrant (Vector DB)" [ref=e721] [cursor=pointer]:
+                - /url: /services/qdrant
+                - img [ref=e722] [cursor=pointer]
+                - text: Qdrant (Vector DB)
+            - listitem [ref=e726]:
+              - link "Open WebUI" [ref=e727] [cursor=pointer]:
+                - /url: /services/open-webui
+                - img [ref=e728] [cursor=pointer]
+                - text: Open WebUI
+            - listitem [ref=e731]:
+              - link "Supabase" [ref=e732] [cursor=pointer]:
+                - /url: /services/supabase
+                - img [ref=e733] [cursor=pointer]
+                - text: Supabase
+            - listitem [ref=e736]:
+              - link "SearXNG (Search)" [ref=e737] [cursor=pointer]:
+                - /url: /services/searxng
+                - img [ref=e738] [cursor=pointer]
+                - text: SearXNG (Search)
+            - listitem [ref=e741]:
+              - link "Neo4j (Graph DB)" [ref=e742] [cursor=pointer]:
+                - /url: /services/neo4j
+                - img [ref=e743] [cursor=pointer]
+                - text: Neo4j (Graph DB)
+            - listitem [ref=e747]:
+              - link "Langfuse (Observability)" [ref=e748] [cursor=pointer]:
+                - /url: /services/langfuse
+                - img [ref=e749] [cursor=pointer]
+                - text: Langfuse (Observability)
+        - generic [ref=e752]:
+          - heading "Solutions Business" [level=4] [ref=e753]:
+            - img [ref=e754]
+            - text: Solutions Business
+          - list [ref=e757]:
+            - listitem [ref=e758]:
+              - link "Finance & Banque" [ref=e759] [cursor=pointer]:
+                - /url: /solutions/finance
+                - img [ref=e760] [cursor=pointer]
+                - text: Finance & Banque
+            - listitem [ref=e763]:
+              - link "Legal & Conseil" [ref=e764] [cursor=pointer]:
+                - /url: /solutions/legal
+                - img [ref=e765] [cursor=pointer]
+                - text: Legal & Conseil
+            - listitem [ref=e769]:
+              - link "Manufacturing" [ref=e770] [cursor=pointer]:
+                - /url: /solutions/manufacturing
+                - img [ref=e771] [cursor=pointer]
+                - text: Manufacturing
+            - listitem [ref=e773]:
+              - link "Santé & Pharmaceutique" [ref=e774] [cursor=pointer]:
+                - /url: /solutions/healthcare
+                - img [ref=e775] [cursor=pointer]
+                - text: Santé & Pharmaceutique
+            - listitem [ref=e777]:
+              - link "Secteur Public" [ref=e778] [cursor=pointer]:
+                - /url: /solutions/public
+                - img [ref=e779] [cursor=pointer]
+                - text: Secteur Public
+            - listitem [ref=e781]:
+              - link "Éducation & Formation" [ref=e782] [cursor=pointer]:
+                - /url: /solutions/education
+                - img [ref=e783] [cursor=pointer]
+                - text: Éducation & Formation
+            - listitem [ref=e788]:
+              - link "Retail & E-commerce" [ref=e789] [cursor=pointer]:
+                - /url: /solutions/retail
+                - img [ref=e790] [cursor=pointer]
+                - text: Retail & E-commerce
+          - link "Calculer Mon ROI" [ref=e796] [cursor=pointer]:
+            - /url: /roi-calculator
+            - img [ref=e797] [cursor=pointer]
+            - text: Calculer Mon ROI
+        - generic [ref=e799]:
+          - heading "Navigation" [level=4] [ref=e800]:
+            - img [ref=e801]
+            - text: Navigation
+          - list [ref=e806]:
+            - listitem [ref=e807]:
+              - link "Écosystème" [ref=e808] [cursor=pointer]:
+                - /url: /ecosystem
+                - img [ref=e809] [cursor=pointer]
+                - text: Écosystème
+            - listitem [ref=e814]:
+              - link "Solutions" [ref=e815] [cursor=pointer]:
+                - /url: /solutions
+                - img [ref=e816] [cursor=pointer]
+                - text: Solutions
+            - listitem [ref=e818]:
+              - link "Expertise" [ref=e819] [cursor=pointer]:
+                - /url: /expertise
+                - img [ref=e820] [cursor=pointer]
+                - text: Expertise
+            - listitem [ref=e825]:
+              - link "Ressources" [ref=e826] [cursor=pointer]:
+                - /url: /resources
+                - img [ref=e827] [cursor=pointer]
+                - text: Ressources
+            - listitem [ref=e829]:
+              - link "À propos" [ref=e830] [cursor=pointer]:
+                - /url: /about
+                - img [ref=e831] [cursor=pointer]
+                - text: À propos
+      - generic [ref=e834]:
+        - generic [ref=e835]: © 2024 Local AI Ecosystem. Tous droits réservés.
+        - generic [ref=e836]:
+          - generic [ref=e837]:
+            - img [ref=e838]
+            - generic [ref=e840]: RGPD Compliant
+          - generic [ref=e841]:
+            - img [ref=e842]
+            - generic [ref=e846]: AI Act Ready
+          - generic [ref=e847]:
+            - img [ref=e848]
+            - generic [ref=e851]: 🇪🇺 Souveraineté EU
+```

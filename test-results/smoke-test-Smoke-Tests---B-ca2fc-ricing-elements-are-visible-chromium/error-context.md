@@ -1,0 +1,930 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - img [ref=e9]
+        - generic [ref=e19]:
+          - generic [ref=e20]: Local AI
+          - generic [ref=e21]: Ecosystem
+      - navigation [ref=e22]:
+        - link "Écosystème" [ref=e24] [cursor=pointer]:
+          - /url: /ecosystem
+          - img [ref=e25] [cursor=pointer]
+          - generic [ref=e30] [cursor=pointer]: Écosystème
+        - link "Solutions" [ref=e32] [cursor=pointer]:
+          - /url: /solutions
+          - img [ref=e33] [cursor=pointer]
+          - generic [ref=e35] [cursor=pointer]: Solutions
+        - link "Expertise" [ref=e37] [cursor=pointer]:
+          - /url: /expertise
+          - img [ref=e38] [cursor=pointer]
+          - generic [ref=e43] [cursor=pointer]: Expertise
+        - link "ROI Calculator" [ref=e45] [cursor=pointer]:
+          - /url: /roi-calculator
+          - img [ref=e46] [cursor=pointer]
+          - generic [ref=e48] [cursor=pointer]: ROI Calculator
+        - link "Ressources" [ref=e50] [cursor=pointer]:
+          - /url: /resources
+          - img [ref=e51] [cursor=pointer]
+          - generic [ref=e53] [cursor=pointer]: Ressources
+        - link "Contact" [ref=e55] [cursor=pointer]:
+          - /url: /contact
+          - img [ref=e56] [cursor=pointer]
+          - generic [ref=e58] [cursor=pointer]: Contact
+      - generic [ref=e59]:
+        - link "Démo Live" [ref=e61] [cursor=pointer]:
+          - /url: /demo
+        - button "Support 24/7" [ref=e62] [cursor=pointer]:
+          - img [ref=e63] [cursor=pointer]
+          - generic [ref=e65] [cursor=pointer]: Support 24/7
+  - generic [ref=e67]:
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - generic [ref=e70]: Secteurs
+        - generic [ref=e71]: 8 Industries
+      - generic [ref=e72]:
+        - generic [ref=e73]: Use Cases
+        - generic [ref=e74]: 15+ Workflows
+      - generic [ref=e75]:
+        - generic [ref=e76]: ROI Moyen
+        - generic [ref=e77]: 275%
+      - generic [ref=e78]:
+        - img [ref=e79]
+        - generic [ref=e82]: Licences limitées
+    - heading "Solutions IA Métier pour Chaque Industrie" [level=1] [ref=e83]:
+      - text: Solutions IA Métier
+      - generic [ref=e84]: pour Chaque Industrie
+    - paragraph [ref=e85]:
+      - text: 8 secteurs d'activité, 15+ cas d'usage prêts à déployer. Des workflows IA spécialisés qui transforment vos processus métier avec un
+      - strong [ref=e86]: ROI prouvé de 275%
+      - text: .
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - img [ref=e89]
+        - generic [ref=e92]: Solutions clé en main par secteur
+      - generic [ref=e93]:
+        - img [ref=e94]
+        - generic [ref=e97]: Workflows pré-configurés et testés
+      - generic [ref=e98]:
+        - img [ref=e99]
+        - generic [ref=e102]: Break-even garanti en 6-12 mois
+    - generic [ref=e103]:
+      - link "Calculer ROI par Secteur (2 min)" [ref=e104] [cursor=pointer]:
+        - /url: /roi-calculator
+        - img [ref=e105] [cursor=pointer]
+        - text: Calculer ROI par Secteur (2 min)
+      - link "Étude Personnalisée Gratuite" [ref=e107] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - img [ref=e110]
+        - generic [ref=e112]: Success Story
+        - img [ref=e113]
+      - paragraph [ref=e115]:
+        - generic [ref=e116]: "Cabinet Juridique:"
+        - text: ROI de
+        - generic [ref=e117]: 320%
+        - text: en 18 mois
+      - paragraph [ref=e118]: 60% de temps économisé sur l'analyse documentaire + automatisation complète des processus
+  - generic [ref=e120]:
+    - generic [ref=e121]:
+      - generic [ref=e122]:
+        - 'link "Finance & Banque Conformité maximale, automatisation des processus réglementaires Analyse documentaire RGPD-compliant Automatisation des processus réglementaires Reporting ACPR automatisé Gestion des risques en temps réel Impact Business: €500k+ conformité économisée" [ref=e124] [cursor=pointer]':
+          - /url: /solutions/finance
+          - generic [ref=e125] [cursor=pointer]:
+            - generic [ref=e126] [cursor=pointer]:
+              - img [ref=e127] [cursor=pointer]
+              - heading "Finance & Banque" [level=2] [ref=e130] [cursor=pointer]
+            - paragraph [ref=e131] [cursor=pointer]: Conformité maximale, automatisation des processus réglementaires
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e133] [cursor=pointer]:
+                - img [ref=e134] [cursor=pointer]
+                - generic [ref=e136] [cursor=pointer]: Analyse documentaire RGPD-compliant
+              - generic [ref=e137] [cursor=pointer]:
+                - img [ref=e138] [cursor=pointer]
+                - generic [ref=e140] [cursor=pointer]: Automatisation des processus réglementaires
+              - generic [ref=e141] [cursor=pointer]:
+                - img [ref=e142] [cursor=pointer]
+                - generic [ref=e144] [cursor=pointer]: Reporting ACPR automatisé
+              - generic [ref=e145] [cursor=pointer]:
+                - img [ref=e146] [cursor=pointer]
+                - generic [ref=e148] [cursor=pointer]: Gestion des risques en temps réel
+            - generic [ref=e149] [cursor=pointer]:
+              - generic [ref=e150] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e151] [cursor=pointer]: €500k+ conformité économisée
+        - 'link "Legal & Conseil Recherche juridique confidentielle, analyse de contrats automatisée RAG juridique sur documents confidentiels Analyse de contrats automatisée Veille juridique personnalisée Génération de clauses légales Impact Business: +60% rapidité recherche" [ref=e153] [cursor=pointer]':
+          - /url: /solutions/legal
+          - generic [ref=e154] [cursor=pointer]:
+            - generic [ref=e155] [cursor=pointer]:
+              - img [ref=e156] [cursor=pointer]
+              - heading "Legal & Conseil" [level=2] [ref=e160] [cursor=pointer]
+            - paragraph [ref=e161] [cursor=pointer]: Recherche juridique confidentielle, analyse de contrats automatisée
+            - generic [ref=e162] [cursor=pointer]:
+              - generic [ref=e163] [cursor=pointer]:
+                - img [ref=e164] [cursor=pointer]
+                - generic [ref=e166] [cursor=pointer]: RAG juridique sur documents confidentiels
+              - generic [ref=e167] [cursor=pointer]:
+                - img [ref=e168] [cursor=pointer]
+                - generic [ref=e170] [cursor=pointer]: Analyse de contrats automatisée
+              - generic [ref=e171] [cursor=pointer]:
+                - img [ref=e172] [cursor=pointer]
+                - generic [ref=e174] [cursor=pointer]: Veille juridique personnalisée
+              - generic [ref=e175] [cursor=pointer]:
+                - img [ref=e176] [cursor=pointer]
+                - generic [ref=e178] [cursor=pointer]: Génération de clauses légales
+            - generic [ref=e179] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e181] [cursor=pointer]: +60% rapidité recherche
+        - 'link "Santé & Pharmaceutique Recherche confidentielle, assistants pour professionnels de santé Recherche clinique confidentielle Assistants virtuels pour médecins Analyse de données patients (anonymisées) Automatisation des processus réglementaires Impact Business: +40% efficacité recherche" [ref=e183] [cursor=pointer]':
+          - /url: /solutions/healthcare
+          - generic [ref=e184] [cursor=pointer]:
+            - generic [ref=e185] [cursor=pointer]:
+              - img [ref=e186] [cursor=pointer]
+              - heading "Santé & Pharmaceutique" [level=2] [ref=e188] [cursor=pointer]
+            - paragraph [ref=e189] [cursor=pointer]: Recherche confidentielle, assistants pour professionnels de santé
+            - generic [ref=e190] [cursor=pointer]:
+              - generic [ref=e191] [cursor=pointer]:
+                - img [ref=e192] [cursor=pointer]
+                - generic [ref=e194] [cursor=pointer]: Recherche clinique confidentielle
+              - generic [ref=e195] [cursor=pointer]:
+                - img [ref=e196] [cursor=pointer]
+                - generic [ref=e198] [cursor=pointer]: Assistants virtuels pour médecins
+              - generic [ref=e199] [cursor=pointer]:
+                - img [ref=e200] [cursor=pointer]
+                - generic [ref=e202] [cursor=pointer]: Analyse de données patients (anonymisées)
+              - generic [ref=e203] [cursor=pointer]:
+                - img [ref=e204] [cursor=pointer]
+                - generic [ref=e206] [cursor=pointer]: Automatisation des processus réglementaires
+            - generic [ref=e207] [cursor=pointer]:
+              - generic [ref=e208] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e209] [cursor=pointer]: +40% efficacité recherche
+        - 'link "Secteur Public & Administrations Services numériques souverains, automatisation des processus Services numériques souverains Traitement automatisé des demandes Assistants pour agents publics Archivage sécurisé à long terme Impact Business: -50% temps traitement" [ref=e211] [cursor=pointer]':
+          - /url: /solutions/public
+          - generic [ref=e212] [cursor=pointer]:
+            - generic [ref=e213] [cursor=pointer]:
+              - img [ref=e214] [cursor=pointer]
+              - heading "Secteur Public & Administrations" [level=2] [ref=e216] [cursor=pointer]
+            - paragraph [ref=e217] [cursor=pointer]: Services numériques souverains, automatisation des processus
+            - generic [ref=e218] [cursor=pointer]:
+              - generic [ref=e219] [cursor=pointer]:
+                - img [ref=e220] [cursor=pointer]
+                - generic [ref=e222] [cursor=pointer]: Services numériques souverains
+              - generic [ref=e223] [cursor=pointer]:
+                - img [ref=e224] [cursor=pointer]
+                - generic [ref=e226] [cursor=pointer]: Traitement automatisé des demandes
+              - generic [ref=e227] [cursor=pointer]:
+                - img [ref=e228] [cursor=pointer]
+                - generic [ref=e230] [cursor=pointer]: Assistants pour agents publics
+              - generic [ref=e231] [cursor=pointer]:
+                - img [ref=e232] [cursor=pointer]
+                - generic [ref=e234] [cursor=pointer]: Archivage sécurisé à long terme
+            - generic [ref=e235] [cursor=pointer]:
+              - generic [ref=e236] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e237] [cursor=pointer]: "-50% temps traitement"
+      - generic [ref=e238]:
+        - 'link "Assurance & Actuariat Révolution IA pour assurance: souscription, fraude, actuariat Souscription intelligente automatisée Détection fraude comportementale Modélisation catastrophes naturelles Indemnisation digitalisée rapide Impact Business: Révolution IA du secteur" [ref=e240] [cursor=pointer]':
+          - /url: /solutions/insurance
+          - generic [ref=e241] [cursor=pointer]:
+            - generic [ref=e242] [cursor=pointer]:
+              - img [ref=e243] [cursor=pointer]
+              - heading "Assurance & Actuariat" [level=2] [ref=e245] [cursor=pointer]
+            - paragraph [ref=e246] [cursor=pointer]: "Révolution IA pour assurance: souscription, fraude, actuariat"
+            - generic [ref=e247] [cursor=pointer]:
+              - generic [ref=e248] [cursor=pointer]:
+                - img [ref=e249] [cursor=pointer]
+                - generic [ref=e251] [cursor=pointer]: Souscription intelligente automatisée
+              - generic [ref=e252] [cursor=pointer]:
+                - img [ref=e253] [cursor=pointer]
+                - generic [ref=e255] [cursor=pointer]: Détection fraude comportementale
+              - generic [ref=e256] [cursor=pointer]:
+                - img [ref=e257] [cursor=pointer]
+                - generic [ref=e259] [cursor=pointer]: Modélisation catastrophes naturelles
+              - generic [ref=e260] [cursor=pointer]:
+                - img [ref=e261] [cursor=pointer]
+                - generic [ref=e263] [cursor=pointer]: Indemnisation digitalisée rapide
+            - generic [ref=e264] [cursor=pointer]:
+              - generic [ref=e265] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e266] [cursor=pointer]: Révolution IA du secteur
+        - 'link "Industrie Manufacturing Maintenance prédictive, documentation technique multilingue Maintenance prédictive via IoT Documentation technique multilingue Assistants virtuels pour opérateurs Optimisation des processus de production Impact Business: -30% downtime machines" [ref=e268] [cursor=pointer]':
+          - /url: /solutions/manufacturing
+          - generic [ref=e269] [cursor=pointer]:
+            - generic [ref=e270] [cursor=pointer]:
+              - img [ref=e271] [cursor=pointer]
+              - heading "Industrie Manufacturing" [level=2] [ref=e273] [cursor=pointer]
+            - paragraph [ref=e274] [cursor=pointer]: Maintenance prédictive, documentation technique multilingue
+            - generic [ref=e275] [cursor=pointer]:
+              - generic [ref=e276] [cursor=pointer]:
+                - img [ref=e277] [cursor=pointer]
+                - generic [ref=e279] [cursor=pointer]: Maintenance prédictive via IoT
+              - generic [ref=e280] [cursor=pointer]:
+                - img [ref=e281] [cursor=pointer]
+                - generic [ref=e283] [cursor=pointer]: Documentation technique multilingue
+              - generic [ref=e284] [cursor=pointer]:
+                - img [ref=e285] [cursor=pointer]
+                - generic [ref=e287] [cursor=pointer]: Assistants virtuels pour opérateurs
+              - generic [ref=e288] [cursor=pointer]:
+                - img [ref=e289] [cursor=pointer]
+                - generic [ref=e291] [cursor=pointer]: Optimisation des processus de production
+            - generic [ref=e292] [cursor=pointer]:
+              - generic [ref=e293] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e294] [cursor=pointer]: "-30% downtime machines"
+        - 'link "Éducation & Formation Apprentissage personnalisé, génération de contenus pédagogiques Tuteurs IA personnalisés Génération de contenus pédagogiques Évaluation automatique des compétences Support multilingue pour l''international Impact Business: +60% personnalisation apprentissage" [ref=e296] [cursor=pointer]':
+          - /url: /solutions/education
+          - generic [ref=e297] [cursor=pointer]:
+            - generic [ref=e298] [cursor=pointer]:
+              - img [ref=e299] [cursor=pointer]
+              - heading "Éducation & Formation" [level=2] [ref=e304] [cursor=pointer]
+            - paragraph [ref=e305] [cursor=pointer]: Apprentissage personnalisé, génération de contenus pédagogiques
+            - generic [ref=e306] [cursor=pointer]:
+              - generic [ref=e307] [cursor=pointer]:
+                - img [ref=e308] [cursor=pointer]
+                - generic [ref=e310] [cursor=pointer]: Tuteurs IA personnalisés
+              - generic [ref=e311] [cursor=pointer]:
+                - img [ref=e312] [cursor=pointer]
+                - generic [ref=e314] [cursor=pointer]: Génération de contenus pédagogiques
+              - generic [ref=e315] [cursor=pointer]:
+                - img [ref=e316] [cursor=pointer]
+                - generic [ref=e318] [cursor=pointer]: Évaluation automatique des compétences
+              - generic [ref=e319] [cursor=pointer]:
+                - img [ref=e320] [cursor=pointer]
+                - generic [ref=e322] [cursor=pointer]: Support multilingue pour l'international
+            - generic [ref=e323] [cursor=pointer]:
+              - generic [ref=e324] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e325] [cursor=pointer]: +60% personnalisation apprentissage
+        - 'link "Retail & E-commerce Recommandations IA, chatbots vente assistée Recommandations produits IA Chatbots vente assistée Analyse comportementale clients Optimisation des stocks prédictive Impact Business: +35% conversion ventes" [ref=e327] [cursor=pointer]':
+          - /url: /solutions/retail
+          - generic [ref=e328] [cursor=pointer]:
+            - generic [ref=e329] [cursor=pointer]:
+              - img [ref=e330] [cursor=pointer]
+              - heading "Retail & E-commerce" [level=2] [ref=e334] [cursor=pointer]
+            - paragraph [ref=e335] [cursor=pointer]: Recommandations IA, chatbots vente assistée
+            - generic [ref=e336] [cursor=pointer]:
+              - generic [ref=e337] [cursor=pointer]:
+                - img [ref=e338] [cursor=pointer]
+                - generic [ref=e340] [cursor=pointer]: Recommandations produits IA
+              - generic [ref=e341] [cursor=pointer]:
+                - img [ref=e342] [cursor=pointer]
+                - generic [ref=e344] [cursor=pointer]: Chatbots vente assistée
+              - generic [ref=e345] [cursor=pointer]:
+                - img [ref=e346] [cursor=pointer]
+                - generic [ref=e348] [cursor=pointer]: Analyse comportementale clients
+              - generic [ref=e349] [cursor=pointer]:
+                - img [ref=e350] [cursor=pointer]
+                - generic [ref=e352] [cursor=pointer]: Optimisation des stocks prédictive
+            - generic [ref=e353] [cursor=pointer]:
+              - generic [ref=e354] [cursor=pointer]: "Impact Business:"
+              - generic [ref=e355] [cursor=pointer]: +35% conversion ventes
+    - generic [ref=e357]:
+      - heading "Comparatif ROI par Secteur" [level=2] [ref=e358]:
+        - img [ref=e359]
+        - text: Comparatif ROI par Secteur
+      - generic [ref=e362]:
+        - generic [ref=e363]:
+          - img [ref=e364]
+          - heading "Finance" [level=3] [ref=e367]
+          - generic [ref=e368]:
+            - generic [ref=e369]:
+              - generic [ref=e370]: "Break-even:"
+              - generic [ref=e371]: 8 mois
+            - generic [ref=e372]:
+              - generic [ref=e373]: "ROI 3 ans:"
+              - generic [ref=e374]: 285%
+        - generic [ref=e375]:
+          - img [ref=e376]
+          - heading "Legal" [level=3] [ref=e380]
+          - generic [ref=e381]:
+            - generic [ref=e382]:
+              - generic [ref=e383]: "Break-even:"
+              - generic [ref=e384]: 6 mois
+            - generic [ref=e385]:
+              - generic [ref=e386]: "ROI 3 ans:"
+              - generic [ref=e387]: 320%
+        - generic [ref=e388]:
+          - img [ref=e389]
+          - heading "Industry" [level=3] [ref=e391]
+          - generic [ref=e392]:
+            - generic [ref=e393]:
+              - generic [ref=e394]: "Break-even:"
+              - generic [ref=e395]: 12 mois
+            - generic [ref=e396]:
+              - generic [ref=e397]: "ROI 3 ans:"
+              - generic [ref=e398]: 220%
+        - generic [ref=e399]:
+          - img [ref=e400]
+          - heading "Santé" [level=3] [ref=e402]
+          - generic [ref=e403]:
+            - generic [ref=e404]:
+              - generic [ref=e405]: "Break-even:"
+              - generic [ref=e406]: 9 mois
+            - generic [ref=e407]:
+              - generic [ref=e408]: "ROI 3 ans:"
+              - generic [ref=e409]: 250%
+        - generic [ref=e410]:
+          - img [ref=e411]
+          - heading "Public" [level=3] [ref=e413]
+          - generic [ref=e414]:
+            - generic [ref=e415]:
+              - generic [ref=e416]: "Break-even:"
+              - generic [ref=e417]: 10 mois
+            - generic [ref=e418]:
+              - generic [ref=e419]: "ROI 3 ans:"
+              - generic [ref=e420]: 200%
+        - generic [ref=e421]:
+          - img [ref=e422]
+          - heading "Éducation" [level=3] [ref=e427]
+          - generic [ref=e428]:
+            - generic [ref=e429]:
+              - generic [ref=e430]: "Break-even:"
+              - generic [ref=e431]: 7 mois
+            - generic [ref=e432]:
+              - generic [ref=e433]: "ROI 3 ans:"
+              - generic [ref=e434]: 275%
+        - generic [ref=e435]:
+          - img [ref=e436]
+          - heading "Retail" [level=3] [ref=e440]
+          - generic [ref=e441]:
+            - generic [ref=e442]:
+              - generic [ref=e443]: "Break-even:"
+              - generic [ref=e444]: 6 mois
+            - generic [ref=e445]:
+              - generic [ref=e446]: "ROI 3 ans:"
+              - generic [ref=e447]: 300%
+      - link "Obtenir Étude ROI Personnalisée" [ref=e449] [cursor=pointer]:
+        - /url: /contact
+        - button "Obtenir Étude ROI Personnalisée" [ref=e450] [cursor=pointer]
+    - generic [ref=e452]:
+      - heading "Cas d'Usage" [level=2] [ref=e453]:
+        - img [ref=e454]
+        - text: Cas d'Usage
+      - generic [ref=e464]:
+        - 'link "Support Client Intelligent 24/7 Stack technique : Open WebUI + n8n + Supabase + Qdrant Workflow : Chatbot multilingue avec escalade automatique vers humains Valeur client : -60% coûts support, +40% satisfaction client Secteurs cibles : E-commerce, SaaS, Télécoms" [ref=e465] [cursor=pointer]':
+          - /url: /solutions/support-client
+          - generic [ref=e466] [cursor=pointer]:
+            - generic [ref=e467] [cursor=pointer]:
+              - img [ref=e468] [cursor=pointer]
+              - heading "Support Client Intelligent 24/7" [level=3] [ref=e470] [cursor=pointer]
+            - generic [ref=e471] [cursor=pointer]:
+              - generic [ref=e472] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e473] [cursor=pointer]: Open WebUI + n8n + Supabase + Qdrant
+            - generic [ref=e474] [cursor=pointer]:
+              - generic [ref=e475] [cursor=pointer]: "Workflow :"
+              - generic [ref=e476] [cursor=pointer]: Chatbot multilingue avec escalade automatique vers humains
+            - generic [ref=e477] [cursor=pointer]:
+              - generic [ref=e478] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e479] [cursor=pointer]: "-60% coûts support, +40% satisfaction client"
+            - generic [ref=e480] [cursor=pointer]:
+              - generic [ref=e481] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e482] [cursor=pointer]: E-commerce, SaaS, Télécoms
+        - 'link "Analyse Documentaire & Extraction d''Insights Stack technique : Ollama + Neo4j + Qdrant + n8n Workflow : Ingestion massive docs → Analyse sémantique → Graphes de connaissances Valeur client : -80% temps d''analyse, détection insights invisibles Secteurs cibles : Legal, Finance, Recherche, Consulting" [ref=e483] [cursor=pointer]':
+          - /url: /solutions/document-analysis
+          - generic [ref=e484] [cursor=pointer]:
+            - generic [ref=e485] [cursor=pointer]:
+              - img [ref=e486] [cursor=pointer]
+              - heading "Analyse Documentaire & Extraction d'Insights" [level=3] [ref=e489] [cursor=pointer]
+            - generic [ref=e490] [cursor=pointer]:
+              - generic [ref=e491] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e492] [cursor=pointer]: Ollama + Neo4j + Qdrant + n8n
+            - generic [ref=e493] [cursor=pointer]:
+              - generic [ref=e494] [cursor=pointer]: "Workflow :"
+              - generic [ref=e495] [cursor=pointer]: Ingestion massive docs → Analyse sémantique → Graphes de connaissances
+            - generic [ref=e496] [cursor=pointer]:
+              - generic [ref=e497] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e498] [cursor=pointer]: "-80% temps d'analyse, détection insights invisibles"
+            - generic [ref=e499] [cursor=pointer]:
+              - generic [ref=e500] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e501] [cursor=pointer]: Legal, Finance, Recherche, Consulting
+        - 'link "Workflows d''Automatisation Intelligente Stack technique : n8n + Ollama + Supabase + API externes Workflow : Déclencheurs → Prise décision IA → Actions automatiques Valeur client : +300% productivité processus, -50% erreurs humaines Secteurs cibles : RH, Comptabilité, Operations, Marketing" [ref=e502] [cursor=pointer]':
+          - /url: /solutions/workflow-automation
+          - generic [ref=e503] [cursor=pointer]:
+            - generic [ref=e504] [cursor=pointer]:
+              - img [ref=e505] [cursor=pointer]
+              - heading "Workflows d'Automatisation Intelligente" [level=3] [ref=e509] [cursor=pointer]
+            - generic [ref=e510] [cursor=pointer]:
+              - generic [ref=e511] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e512] [cursor=pointer]: n8n + Ollama + Supabase + API externes
+            - generic [ref=e513] [cursor=pointer]:
+              - generic [ref=e514] [cursor=pointer]: "Workflow :"
+              - generic [ref=e515] [cursor=pointer]: Déclencheurs → Prise décision IA → Actions automatiques
+            - generic [ref=e516] [cursor=pointer]:
+              - generic [ref=e517] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e518] [cursor=pointer]: +300% productivité processus, -50% erreurs humaines
+            - generic [ref=e519] [cursor=pointer]:
+              - generic [ref=e520] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e521] [cursor=pointer]: RH, Comptabilité, Operations, Marketing
+        - 'link "Veille & Intelligence Stratégique Stack technique : SearXNG + n8n + Qdrant + Langfuse Workflow : Crawling web → Analyse sentiment → Alertes personnalisées Valeur client : Anticipation concurrence, détection opportunités/risques Secteurs cibles : Direction Générale, Innovation, Marketing, Finance" [ref=e522] [cursor=pointer]':
+          - /url: /solutions/strategic-intelligence
+          - generic [ref=e523] [cursor=pointer]:
+            - generic [ref=e524] [cursor=pointer]:
+              - img [ref=e525] [cursor=pointer]
+              - heading "Veille & Intelligence Stratégique" [level=3] [ref=e528] [cursor=pointer]
+            - generic [ref=e529] [cursor=pointer]:
+              - generic [ref=e530] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e531] [cursor=pointer]: SearXNG + n8n + Qdrant + Langfuse
+            - generic [ref=e532] [cursor=pointer]:
+              - generic [ref=e533] [cursor=pointer]: "Workflow :"
+              - generic [ref=e534] [cursor=pointer]: Crawling web → Analyse sentiment → Alertes personnalisées
+            - generic [ref=e535] [cursor=pointer]:
+              - generic [ref=e536] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e537] [cursor=pointer]: Anticipation concurrence, détection opportunités/risques
+            - generic [ref=e538] [cursor=pointer]:
+              - generic [ref=e539] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e540] [cursor=pointer]: Direction Générale, Innovation, Marketing, Finance
+        - 'link "Aide à la Décision Basée sur Données Stack technique : Neo4j + Qdrant + Ollama + tableaux de bord Supabase Workflow : Agrégation multi-sources → Modélisation graphes → Recommandations Valeur client : +25% qualité décisions, réduction risques business Secteurs cibles : Finance, Santé, Industrie, Secteur Public" [ref=e541] [cursor=pointer]':
+          - /url: /solutions/data-decision
+          - generic [ref=e542] [cursor=pointer]:
+            - generic [ref=e543] [cursor=pointer]:
+              - img [ref=e544] [cursor=pointer]
+              - heading "Aide à la Décision Basée sur Données" [level=3] [ref=e547] [cursor=pointer]
+            - generic [ref=e548] [cursor=pointer]:
+              - generic [ref=e549] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e550] [cursor=pointer]: Neo4j + Qdrant + Ollama + tableaux de bord Supabase
+            - generic [ref=e551] [cursor=pointer]:
+              - generic [ref=e552] [cursor=pointer]: "Workflow :"
+              - generic [ref=e553] [cursor=pointer]: Agrégation multi-sources → Modélisation graphes → Recommandations
+            - generic [ref=e554] [cursor=pointer]:
+              - generic [ref=e555] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e556] [cursor=pointer]: +25% qualité décisions, réduction risques business
+            - generic [ref=e557] [cursor=pointer]:
+              - generic [ref=e558] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e559] [cursor=pointer]: Finance, Santé, Industrie, Secteur Public
+        - 'link "Formation & Montée en Compétences IA Stack technique : Open WebUI + n8n + Supabase + modules pédagogiques Workflow : Évaluation niveau → Parcours personnalisé → Suivi progression Valeur client : -70% coûts formation, +200% engagement apprenants Secteurs cibles : Éducation, Corporate Training, Transformation digitale" [ref=e560] [cursor=pointer]':
+          - /url: /solutions/training
+          - generic [ref=e561] [cursor=pointer]:
+            - generic [ref=e562] [cursor=pointer]:
+              - img [ref=e563] [cursor=pointer]
+              - heading "Formation & Montée en Compétences IA" [level=3] [ref=e566] [cursor=pointer]
+            - generic [ref=e567] [cursor=pointer]:
+              - generic [ref=e568] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e569] [cursor=pointer]: Open WebUI + n8n + Supabase + modules pédagogiques
+            - generic [ref=e570] [cursor=pointer]:
+              - generic [ref=e571] [cursor=pointer]: "Workflow :"
+              - generic [ref=e572] [cursor=pointer]: Évaluation niveau → Parcours personnalisé → Suivi progression
+            - generic [ref=e573] [cursor=pointer]:
+              - generic [ref=e574] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e575] [cursor=pointer]: "-70% coûts formation, +200% engagement apprenants"
+            - generic [ref=e576] [cursor=pointer]:
+              - generic [ref=e577] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e578] [cursor=pointer]: Éducation, Corporate Training, Transformation digitale
+        - 'link "Détection de Fraude & Conformité Stack technique : Ollama + Neo4j + Qdrant + n8n + monitoring temps réel Workflow : Analyse patterns comportementaux → Scoring risque → Alertes automatiques Valeur client : -85% fraudes non détectées, conformité automatisée RGPD/AML Secteurs cibles : Banque, Assurance, Fintech, E-commerce" [ref=e579] [cursor=pointer]':
+          - /url: /solutions/fraud-detection
+          - generic [ref=e580] [cursor=pointer]:
+            - generic [ref=e581] [cursor=pointer]:
+              - img [ref=e582] [cursor=pointer]
+              - heading "Détection de Fraude & Conformité" [level=3] [ref=e584] [cursor=pointer]
+            - generic [ref=e585] [cursor=pointer]:
+              - generic [ref=e586] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e587] [cursor=pointer]: Ollama + Neo4j + Qdrant + n8n + monitoring temps réel
+            - generic [ref=e588] [cursor=pointer]:
+              - generic [ref=e589] [cursor=pointer]: "Workflow :"
+              - generic [ref=e590] [cursor=pointer]: Analyse patterns comportementaux → Scoring risque → Alertes automatiques
+            - generic [ref=e591] [cursor=pointer]:
+              - generic [ref=e592] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e593] [cursor=pointer]: "-85% fraudes non détectées, conformité automatisée RGPD/AML"
+            - generic [ref=e594] [cursor=pointer]:
+              - generic [ref=e595] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e596] [cursor=pointer]: Banque, Assurance, Fintech, E-commerce
+        - 'link "Optimisation Supply Chain & Prévision Demande Stack technique : Neo4j + Ollama + n8n + APIs logistiques + Supabase Workflow : Analyse multi-variables → Modèles prédictifs → Optimisation stocks Valeur client : -30% coûts logistiques, +95% précision prévisions Secteurs cibles : Retail, Industrie, Distribution, Manufacturing" [ref=e597] [cursor=pointer]':
+          - /url: /solutions/supply-chain
+          - generic [ref=e598] [cursor=pointer]:
+            - generic [ref=e599] [cursor=pointer]:
+              - img [ref=e600] [cursor=pointer]
+              - heading "Optimisation Supply Chain & Prévision Demande" [level=3] [ref=e605] [cursor=pointer]
+            - generic [ref=e606] [cursor=pointer]:
+              - generic [ref=e607] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e608] [cursor=pointer]: Neo4j + Ollama + n8n + APIs logistiques + Supabase
+            - generic [ref=e609] [cursor=pointer]:
+              - generic [ref=e610] [cursor=pointer]: "Workflow :"
+              - generic [ref=e611] [cursor=pointer]: Analyse multi-variables → Modèles prédictifs → Optimisation stocks
+            - generic [ref=e612] [cursor=pointer]:
+              - generic [ref=e613] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e614] [cursor=pointer]: "-30% coûts logistiques, +95% précision prévisions"
+            - generic [ref=e615] [cursor=pointer]:
+              - generic [ref=e616] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e617] [cursor=pointer]: Retail, Industrie, Distribution, Manufacturing
+        - 'link "Marketing Hyper-Personnalisé Stack technique : Ollama + Qdrant + n8n + Supabase + intégrations CRM/MA Workflow : Profiling client → Génération contenu adapté → A/B testing Valeur client : +150% engagement, +80% conversions, -70% temps création Secteurs cibles : E-commerce, Médias, Agences, SaaS B2B" [ref=e618] [cursor=pointer]':
+          - /url: /solutions/marketing-personalization
+          - generic [ref=e619] [cursor=pointer]:
+            - generic [ref=e620] [cursor=pointer]:
+              - img [ref=e621] [cursor=pointer]
+              - heading "Marketing Hyper-Personnalisé" [level=3] [ref=e625] [cursor=pointer]
+            - generic [ref=e626] [cursor=pointer]:
+              - generic [ref=e627] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e628] [cursor=pointer]: Ollama + Qdrant + n8n + Supabase + intégrations CRM/MA
+            - generic [ref=e629] [cursor=pointer]:
+              - generic [ref=e630] [cursor=pointer]: "Workflow :"
+              - generic [ref=e631] [cursor=pointer]: Profiling client → Génération contenu adapté → A/B testing
+            - generic [ref=e632] [cursor=pointer]:
+              - generic [ref=e633] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e634] [cursor=pointer]: +150% engagement, +80% conversions, -70% temps création
+            - generic [ref=e635] [cursor=pointer]:
+              - generic [ref=e636] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e637] [cursor=pointer]: E-commerce, Médias, Agences, SaaS B2B
+        - 'link "Maintenance Prédictive IoT & Industrie 4.0 Stack technique : Neo4j + Ollama + n8n + connecteurs IoT + Qdrant Workflow : Capteurs IoT → Analyse patterns → Prédiction pannes Valeur client : -60% temps arrêt machines, -40% coûts maintenance Secteurs cibles : Industrie, Énergie, Transport, Smart Buildings" [ref=e638] [cursor=pointer]':
+          - /url: /solutions/predictive-maintenance
+          - generic [ref=e639] [cursor=pointer]:
+            - generic [ref=e640] [cursor=pointer]:
+              - img [ref=e641] [cursor=pointer]
+              - heading "Maintenance Prédictive IoT & Industrie 4.0" [level=3] [ref=e643] [cursor=pointer]
+            - generic [ref=e644] [cursor=pointer]:
+              - generic [ref=e645] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e646] [cursor=pointer]: Neo4j + Ollama + n8n + connecteurs IoT + Qdrant
+            - generic [ref=e647] [cursor=pointer]:
+              - generic [ref=e648] [cursor=pointer]: "Workflow :"
+              - generic [ref=e649] [cursor=pointer]: Capteurs IoT → Analyse patterns → Prédiction pannes
+            - generic [ref=e650] [cursor=pointer]:
+              - generic [ref=e651] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e652] [cursor=pointer]: "-60% temps arrêt machines, -40% coûts maintenance"
+            - generic [ref=e653] [cursor=pointer]:
+              - generic [ref=e654] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e655] [cursor=pointer]: Industrie, Énergie, Transport, Smart Buildings
+        - 'link "Assistant Médical & Diagnostic Augmenté Stack technique : Ollama (modèles médicaux) + Neo4j + Qdrant + sécurité HIPAA Workflow : Analyse symptômes → Aide diagnostic → Protocoles soins Valeur client : +40% précision diagnostic, -50% temps consultation Secteurs cibles : Cabinets médicaux, Cliniques, Télémédecine" [ref=e656] [cursor=pointer]':
+          - /url: /solutions/medical-assistant
+          - generic [ref=e657] [cursor=pointer]:
+            - generic [ref=e658] [cursor=pointer]:
+              - img [ref=e659] [cursor=pointer]
+              - heading "Assistant Médical & Diagnostic Augmenté" [level=3] [ref=e663] [cursor=pointer]
+            - generic [ref=e664] [cursor=pointer]:
+              - generic [ref=e665] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e666] [cursor=pointer]: Ollama (modèles médicaux) + Neo4j + Qdrant + sécurité HIPAA
+            - generic [ref=e667] [cursor=pointer]:
+              - generic [ref=e668] [cursor=pointer]: "Workflow :"
+              - generic [ref=e669] [cursor=pointer]: Analyse symptômes → Aide diagnostic → Protocoles soins
+            - generic [ref=e670] [cursor=pointer]:
+              - generic [ref=e671] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e672] [cursor=pointer]: +40% précision diagnostic, -50% temps consultation
+            - generic [ref=e673] [cursor=pointer]:
+              - generic [ref=e674] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e675] [cursor=pointer]: Cabinets médicaux, Cliniques, Télémédecine
+        - 'link "Trading Algorithmique & Gestion Portefeuille Stack technique : Ollama + Neo4j + n8n + APIs financières + Qdrant Workflow : Analyse marchés → Signaux trading → Exécution ordres Valeur client : +25% performance vs benchmarks, -60% émotionnel trading Secteurs cibles : Hedge funds, Family offices, Banques privées" [ref=e676] [cursor=pointer]':
+          - /url: /solutions/algorithmic-trading
+          - generic [ref=e677] [cursor=pointer]:
+            - generic [ref=e678] [cursor=pointer]:
+              - img [ref=e679] [cursor=pointer]
+              - heading "Trading Algorithmique & Gestion Portefeuille" [level=3] [ref=e682] [cursor=pointer]
+            - generic [ref=e683] [cursor=pointer]:
+              - generic [ref=e684] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e685] [cursor=pointer]: Ollama + Neo4j + n8n + APIs financières + Qdrant
+            - generic [ref=e686] [cursor=pointer]:
+              - generic [ref=e687] [cursor=pointer]: "Workflow :"
+              - generic [ref=e688] [cursor=pointer]: Analyse marchés → Signaux trading → Exécution ordres
+            - generic [ref=e689] [cursor=pointer]:
+              - generic [ref=e690] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e691] [cursor=pointer]: +25% performance vs benchmarks, -60% émotionnel trading
+            - generic [ref=e692] [cursor=pointer]:
+              - generic [ref=e693] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e694] [cursor=pointer]: Hedge funds, Family offices, Banques privées
+        - 'link "Cybersécurité Comportementale & Threat Detection Stack technique : Ollama + Neo4j + n8n + SIEM + Qdrant Workflow : Analyse comportements réseau → Détection anomalies → Response automatique Valeur client : -90% temps détection threats, +200% efficacité SOC Secteurs cibles : Entreprises, Secteur public, Cloud providers" [ref=e695] [cursor=pointer]':
+          - /url: /solutions/cybersecurity
+          - generic [ref=e696] [cursor=pointer]:
+            - generic [ref=e697] [cursor=pointer]:
+              - img [ref=e698] [cursor=pointer]
+              - heading "Cybersécurité Comportementale & Threat Detection" [level=3] [ref=e700] [cursor=pointer]
+            - generic [ref=e701] [cursor=pointer]:
+              - generic [ref=e702] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e703] [cursor=pointer]: Ollama + Neo4j + n8n + SIEM + Qdrant
+            - generic [ref=e704] [cursor=pointer]:
+              - generic [ref=e705] [cursor=pointer]: "Workflow :"
+              - generic [ref=e706] [cursor=pointer]: Analyse comportements réseau → Détection anomalies → Response automatique
+            - generic [ref=e707] [cursor=pointer]:
+              - generic [ref=e708] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e709] [cursor=pointer]: "-90% temps détection threats, +200% efficacité SOC"
+            - generic [ref=e710] [cursor=pointer]:
+              - generic [ref=e711] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e712] [cursor=pointer]: Entreprises, Secteur public, Cloud providers
+        - 'link "Gestion Immobilière Intelligente & PropTech Stack technique : Ollama + Neo4j + n8n + IoT + Supabase + APIs marchés Workflow : Valorisation automatique → Gestion locataires → Maintenance prédictive Valeur client : +15% rendements, -40% coûts gestion, +60% satisfaction locataires Secteurs cibles : Gestionnaires patrimoine, Promoteurs, Syndics" [ref=e713] [cursor=pointer]':
+          - /url: /solutions/real-estate-management
+          - generic [ref=e714] [cursor=pointer]:
+            - generic [ref=e715] [cursor=pointer]:
+              - img [ref=e716] [cursor=pointer]
+              - heading "Gestion Immobilière Intelligente & PropTech" [level=3] [ref=e719] [cursor=pointer]
+            - generic [ref=e720] [cursor=pointer]:
+              - generic [ref=e721] [cursor=pointer]: "Stack technique :"
+              - generic [ref=e722] [cursor=pointer]: Ollama + Neo4j + n8n + IoT + Supabase + APIs marchés
+            - generic [ref=e723] [cursor=pointer]:
+              - generic [ref=e724] [cursor=pointer]: "Workflow :"
+              - generic [ref=e725] [cursor=pointer]: Valorisation automatique → Gestion locataires → Maintenance prédictive
+            - generic [ref=e726] [cursor=pointer]:
+              - generic [ref=e727] [cursor=pointer]: "Valeur client :"
+              - generic [ref=e728] [cursor=pointer]: +15% rendements, -40% coûts gestion, +60% satisfaction locataires
+            - generic [ref=e729] [cursor=pointer]:
+              - generic [ref=e730] [cursor=pointer]: "Secteurs cibles :"
+              - generic [ref=e731] [cursor=pointer]: Gestionnaires patrimoine, Promoteurs, Syndics
+    - generic [ref=e732]:
+      - generic [ref=e733]:
+        - generic [ref=e734]:
+          - img [ref=e735]
+          - generic [ref=e737]: SOLUTIONS MÉTIER
+          - img [ref=e738]
+        - heading "Workflows IA Clé en Main par Secteur" [level=2] [ref=e740]
+        - paragraph [ref=e741]: Nos solutions incluent l'écosystème complet + workflows spécialisés + accompagnement expert. Licence à vie avec garantie ROI.
+      - generic [ref=e742]:
+        - generic [ref=e743]:
+          - generic [ref=e744]:
+            - heading "Solutions Business" [level=3] [ref=e745]
+            - paragraph [ref=e746]: PME & Entreprises moyennes
+          - generic [ref=e747]:
+            - generic [ref=e748]:
+              - generic [ref=e749]: €8,990
+              - generic [ref=e750]:
+                - generic [ref=e751]: à vie
+                - generic [ref=e752]: solution complète
+            - paragraph [ref=e753]: vs €120,000/an solutions classiques
+            - paragraph [ref=e754]: "Économies : €1,080,000 sur 10 ans"
+          - generic [ref=e755]:
+            - generic [ref=e756]:
+              - img [ref=e757]
+              - generic [ref=e760]: Écosystème IA complet (15 services intégrés)
+            - generic [ref=e761]:
+              - img [ref=e762]
+              - generic [ref=e765]: 3 workflows métier personnalisés pour votre secteur
+            - generic [ref=e766]:
+              - img [ref=e767]
+              - generic [ref=e770]: Formation équipe + accompagnement 3 mois
+            - generic [ref=e771]:
+              - img [ref=e772]
+              - generic [ref=e775]: "Support premium optionnel : €9,90/mois"
+          - link "Démarrer ma Solution Métier" [ref=e776] [cursor=pointer]:
+            - /url: /contact
+            - img [ref=e777] [cursor=pointer]
+            - text: Démarrer ma Solution Métier
+        - generic [ref=e780]:
+          - generic [ref=e782]: TRANSFORMATION COMPLÈTE
+          - generic [ref=e783]:
+            - heading "Solutions Enterprise" [level=3] [ref=e784]
+            - paragraph [ref=e785]: Grandes entreprises & groupes
+          - generic [ref=e786]:
+            - generic [ref=e788]: Sur mesure
+            - paragraph [ref=e789]: vs €500,000+/an solutions IBM/Microsoft
+            - paragraph [ref=e790]: "Économies typiques : €3M+ sur 3 ans"
+          - generic [ref=e791]:
+            - generic [ref=e792]:
+              - img [ref=e793]
+              - generic [ref=e796]: Architecture IA sur mesure multi-sites
+            - generic [ref=e797]:
+              - img [ref=e798]
+              - generic [ref=e801]: 10+ workflows personnalisés par département
+            - generic [ref=e802]:
+              - img [ref=e803]
+              - generic [ref=e806]: Centre d'excellence IA + transformation équipes
+            - generic [ref=e807]:
+              - img [ref=e808]
+              - generic [ref=e811]: Support dédié + SLA entreprise inclus
+          - link "🏢Étude de Faisabilité Gratuite" [ref=e812] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e813] [cursor=pointer]: 🏢
+            - text: Étude de Faisabilité Gratuite
+      - generic [ref=e814]:
+        - heading "🎯 Garantie de Performance ou Remboursé" [level=3] [ref=e815]
+        - paragraph [ref=e816]: Si votre solution n'atteint pas le ROI prévu dans les 12 mois, remboursement intégral de la licence + optimisations gratuites.
+    - generic [ref=e817]:
+      - generic [ref=e818]:
+        - heading "Success Stories par Secteur" [level=2] [ref=e819]
+        - paragraph [ref=e820]: Résultats concrets de nos clients dans chaque industrie
+      - generic [ref=e821]:
+        - generic [ref=e822]:
+          - generic [ref=e823]:
+            - img [ref=e824]
+            - img [ref=e826]
+            - img [ref=e828]
+            - img [ref=e830]
+            - img [ref=e832]
+          - generic [ref=e834]:
+            - img [ref=e835]
+            - generic [ref=e838]: Finance & Banque
+          - paragraph [ref=e839]: "\"320% de ROI en 18 mois avec automatisation complète de nos processus de conformité. Analyse documentaire 10x plus rapide et zéro erreur RGPD.\""
+          - generic [ref=e840]:
+            - generic [ref=e841]: A.M
+            - generic [ref=e842]:
+              - generic [ref=e843]: Antoine Mercier
+              - generic [ref=e844]: DSI, Banque Régionale Européenne
+        - generic [ref=e845]:
+          - generic [ref=e846]:
+            - img [ref=e847]
+            - img [ref=e849]
+            - img [ref=e851]
+            - img [ref=e853]
+            - img [ref=e855]
+          - generic [ref=e857]:
+            - img [ref=e858]
+            - generic [ref=e862]: Legal & Conseil
+          - paragraph [ref=e863]: "\"Notre équipe juridique économise 60% de son temps sur l'analyse documentaire. RAG sur 100,000 documents confidentiels avec précision de 95%.\""
+          - generic [ref=e864]:
+            - generic [ref=e865]: C.R
+            - generic [ref=e866]:
+              - generic [ref=e867]: Claire Rousseau
+              - generic [ref=e868]: Associée, Cabinet Rousseau & Associés
+        - generic [ref=e869]:
+          - generic [ref=e870]:
+            - img [ref=e871]
+            - img [ref=e873]
+            - img [ref=e875]
+            - img [ref=e877]
+            - img [ref=e879]
+          - generic [ref=e881]:
+            - img [ref=e882]
+            - generic [ref=e884]: Manufacturing
+          - paragraph [ref=e885]: "\"Maintenance prédictive révolutionnaire : -60% de temps d'arrêt machines, documentation multilingue générée automatiquement.\""
+          - generic [ref=e886]:
+            - generic [ref=e887]: L.D
+            - generic [ref=e888]:
+              - generic [ref=e889]: Laurent Dubois
+              - generic [ref=e890]: Directeur Industrie, TechManufacturing SA
+      - generic [ref=e892]:
+        - generic [ref=e893]:
+          - generic [ref=e894]: "8"
+          - generic [ref=e895]: Secteurs Transformés
+        - generic [ref=e896]:
+          - generic [ref=e897]: 200+
+          - generic [ref=e898]: Solutions Déployées
+        - generic [ref=e899]:
+          - generic [ref=e900]: 275%
+          - generic [ref=e901]: ROI Moyen Constaté
+        - generic [ref=e902]:
+          - generic [ref=e903]: 8 mois
+          - generic [ref=e904]: Break-even Moyen
+    - generic [ref=e906]:
+      - generic [ref=e907]:
+        - img [ref=e908]
+        - generic [ref=e911]: OFFRE LIMITÉE
+        - img [ref=e912]
+      - heading "Transformez Votre Secteur avec l'IA" [level=2] [ref=e915]
+      - paragraph [ref=e916]: Rejoignez les leaders de votre industrie qui ont choisi la souveraineté IA. Solution complète déployée en moins de 30 jours.
+      - generic [ref=e917]:
+        - link "ROI par Secteur (2 min)" [ref=e918] [cursor=pointer]:
+          - /url: /roi-calculator
+          - img [ref=e919] [cursor=pointer]
+          - text: ROI par Secteur (2 min)
+        - link "Consultation Gratuite Expert" [ref=e921] [cursor=pointer]:
+          - /url: /contact
+      - paragraph [ref=e922]: 🎯 Étude personnalisée gratuite • ✅ Workflows pré-configurés • 💰 Licence à vie garantie
+  - generic [ref=e924]:
+    - img [ref=e927]
+    - heading "Besoin d'une réponse immédiate ?" [level=2] [ref=e929]
+    - paragraph [ref=e930]: Notre assistant IA Local AI est disponible 24/7 pour répondre instantanément à vos questions techniques, vous guider dans l'implémentation de votre projet ou vous aider à résoudre vos problèmes.
+    - generic [ref=e931]:
+      - button "Support urgente 24/7" [ref=e932] [cursor=pointer]:
+        - img [ref=e933] [cursor=pointer]
+        - generic [ref=e935] [cursor=pointer]: Assistant IA 24/7
+        - img [ref=e936] [cursor=pointer]
+      - generic [ref=e941]: IA disponible maintenant
+    - generic [ref=e942]:
+      - generic [ref=e945]: Réponse instantanée
+      - generic [ref=e948]: IA spécialisée Local AI
+      - generic [ref=e951]: Toujours disponible
+  - contentinfo [ref=e952]:
+    - generic [ref=e953]:
+      - generic [ref=e954]:
+        - generic [ref=e955]:
+          - generic [ref=e956]:
+            - img [ref=e957]
+            - generic [ref=e967]:
+              - heading "Local AI Ecosystem" [level=3] [ref=e968]
+              - paragraph [ref=e969]: L'IA Souveraine pour l'Entreprise
+          - paragraph [ref=e970]: Transformez vos défis d'IA en avantages concurrentiels avec notre écosystème complet auto-hébergé. Sécurité maximale, conformité garantie, ROI prouvé.
+          - generic [ref=e971]:
+            - generic [ref=e972]:
+              - generic [ref=e973]: 500+
+              - generic [ref=e974]: Entreprises
+            - generic [ref=e975]:
+              - generic [ref=e976]: €12M+
+              - generic [ref=e977]: Économisés
+          - generic [ref=e978]:
+            - heading "Restez informé des évolutions IA" [level=4] [ref=e979]
+            - generic [ref=e980]:
+              - textbox "votre@email.com" [ref=e981]
+              - button "OK" [ref=e982] [cursor=pointer]
+        - generic [ref=e983]:
+          - heading "Services IA" [level=4] [ref=e984]:
+            - img [ref=e985]
+            - text: Services IA
+          - list [ref=e990]:
+            - listitem [ref=e991]:
+              - link "Ollama (LLM Local)" [ref=e992] [cursor=pointer]:
+                - /url: /services/ollama
+                - img [ref=e993] [cursor=pointer]
+                - text: Ollama (LLM Local)
+            - listitem [ref=e1003]:
+              - link "N8N (Automation)" [ref=e1004] [cursor=pointer]:
+                - /url: /services/n8n
+                - img [ref=e1005] [cursor=pointer]
+                - text: N8N (Automation)
+            - listitem [ref=e1009]:
+              - link "Qdrant (Vector DB)" [ref=e1010] [cursor=pointer]:
+                - /url: /services/qdrant
+                - img [ref=e1011] [cursor=pointer]
+                - text: Qdrant (Vector DB)
+            - listitem [ref=e1015]:
+              - link "Open WebUI" [ref=e1016] [cursor=pointer]:
+                - /url: /services/open-webui
+                - img [ref=e1017] [cursor=pointer]
+                - text: Open WebUI
+            - listitem [ref=e1020]:
+              - link "Supabase" [ref=e1021] [cursor=pointer]:
+                - /url: /services/supabase
+                - img [ref=e1022] [cursor=pointer]
+                - text: Supabase
+            - listitem [ref=e1025]:
+              - link "SearXNG (Search)" [ref=e1026] [cursor=pointer]:
+                - /url: /services/searxng
+                - img [ref=e1027] [cursor=pointer]
+                - text: SearXNG (Search)
+            - listitem [ref=e1030]:
+              - link "Neo4j (Graph DB)" [ref=e1031] [cursor=pointer]:
+                - /url: /services/neo4j
+                - img [ref=e1032] [cursor=pointer]
+                - text: Neo4j (Graph DB)
+            - listitem [ref=e1036]:
+              - link "Langfuse (Observability)" [ref=e1037] [cursor=pointer]:
+                - /url: /services/langfuse
+                - img [ref=e1038] [cursor=pointer]
+                - text: Langfuse (Observability)
+        - generic [ref=e1041]:
+          - heading "Solutions Business" [level=4] [ref=e1042]:
+            - img [ref=e1043]
+            - text: Solutions Business
+          - list [ref=e1046]:
+            - listitem [ref=e1047]:
+              - link "Finance & Banque" [ref=e1048] [cursor=pointer]:
+                - /url: /solutions/finance
+                - img [ref=e1049] [cursor=pointer]
+                - text: Finance & Banque
+            - listitem [ref=e1052]:
+              - link "Legal & Conseil" [ref=e1053] [cursor=pointer]:
+                - /url: /solutions/legal
+                - img [ref=e1054] [cursor=pointer]
+                - text: Legal & Conseil
+            - listitem [ref=e1058]:
+              - link "Manufacturing" [ref=e1059] [cursor=pointer]:
+                - /url: /solutions/manufacturing
+                - img [ref=e1060] [cursor=pointer]
+                - text: Manufacturing
+            - listitem [ref=e1062]:
+              - link "Santé & Pharmaceutique" [ref=e1063] [cursor=pointer]:
+                - /url: /solutions/healthcare
+                - img [ref=e1064] [cursor=pointer]
+                - text: Santé & Pharmaceutique
+            - listitem [ref=e1066]:
+              - link "Secteur Public" [ref=e1067] [cursor=pointer]:
+                - /url: /solutions/public
+                - img [ref=e1068] [cursor=pointer]
+                - text: Secteur Public
+            - listitem [ref=e1070]:
+              - link "Éducation & Formation" [ref=e1071] [cursor=pointer]:
+                - /url: /solutions/education
+                - img [ref=e1072] [cursor=pointer]
+                - text: Éducation & Formation
+            - listitem [ref=e1077]:
+              - link "Retail & E-commerce" [ref=e1078] [cursor=pointer]:
+                - /url: /solutions/retail
+                - img [ref=e1079] [cursor=pointer]
+                - text: Retail & E-commerce
+          - link "Calculer Mon ROI" [ref=e1085] [cursor=pointer]:
+            - /url: /roi-calculator
+            - img [ref=e1086] [cursor=pointer]
+            - text: Calculer Mon ROI
+        - generic [ref=e1088]:
+          - heading "Navigation" [level=4] [ref=e1089]:
+            - img [ref=e1090]
+            - text: Navigation
+          - list [ref=e1095]:
+            - listitem [ref=e1096]:
+              - link "Écosystème" [ref=e1097] [cursor=pointer]:
+                - /url: /ecosystem
+                - img [ref=e1098] [cursor=pointer]
+                - text: Écosystème
+            - listitem [ref=e1103]:
+              - link "Solutions" [ref=e1104] [cursor=pointer]:
+                - /url: /solutions
+                - img [ref=e1105] [cursor=pointer]
+                - text: Solutions
+            - listitem [ref=e1107]:
+              - link "Expertise" [ref=e1108] [cursor=pointer]:
+                - /url: /expertise
+                - img [ref=e1109] [cursor=pointer]
+                - text: Expertise
+            - listitem [ref=e1114]:
+              - link "Ressources" [ref=e1115] [cursor=pointer]:
+                - /url: /resources
+                - img [ref=e1116] [cursor=pointer]
+                - text: Ressources
+            - listitem [ref=e1118]:
+              - link "À propos" [ref=e1119] [cursor=pointer]:
+                - /url: /about
+                - img [ref=e1120] [cursor=pointer]
+                - text: À propos
+      - generic [ref=e1123]:
+        - generic [ref=e1124]: © 2024 Local AI Ecosystem. Tous droits réservés.
+        - generic [ref=e1125]:
+          - generic [ref=e1126]:
+            - img [ref=e1127]
+            - generic [ref=e1129]: RGPD Compliant
+          - generic [ref=e1130]:
+            - img [ref=e1131]
+            - generic [ref=e1135]: AI Act Ready
+          - generic [ref=e1136]:
+            - img [ref=e1137]
+            - generic [ref=e1140]: 🇪🇺 Souveraineté EU
+```

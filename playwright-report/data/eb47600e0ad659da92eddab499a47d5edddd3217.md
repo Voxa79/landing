@@ -1,0 +1,537 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - img [ref=e9]
+        - generic [ref=e19]:
+          - generic [ref=e20]: Local AI
+          - generic [ref=e21]: Ecosystem
+      - navigation [ref=e22]:
+        - link "Écosystème" [ref=e24] [cursor=pointer]:
+          - /url: /ecosystem
+          - img [ref=e25] [cursor=pointer]
+          - generic [ref=e30] [cursor=pointer]: Écosystème
+        - link "Solutions" [ref=e32] [cursor=pointer]:
+          - /url: /solutions
+          - img [ref=e33] [cursor=pointer]
+          - generic [ref=e35] [cursor=pointer]: Solutions
+        - link "Expertise" [ref=e37] [cursor=pointer]:
+          - /url: /expertise
+          - img [ref=e38] [cursor=pointer]
+          - generic [ref=e43] [cursor=pointer]: Expertise
+        - link "ROI Calculator" [ref=e45] [cursor=pointer]:
+          - /url: /roi-calculator
+          - img [ref=e46] [cursor=pointer]
+          - generic [ref=e48] [cursor=pointer]: ROI Calculator
+        - link "Ressources" [ref=e50] [cursor=pointer]:
+          - /url: /resources
+          - img [ref=e51] [cursor=pointer]
+          - generic [ref=e53] [cursor=pointer]: Ressources
+        - link "Contact" [ref=e55] [cursor=pointer]:
+          - /url: /contact
+          - img [ref=e56] [cursor=pointer]
+          - generic [ref=e58] [cursor=pointer]: Contact
+      - generic [ref=e59]:
+        - link "Démo Live" [ref=e61] [cursor=pointer]:
+          - /url: /demo
+        - button "Support 24/7" [ref=e62] [cursor=pointer]:
+          - img [ref=e63] [cursor=pointer]
+          - generic [ref=e65] [cursor=pointer]: Support 24/7
+  - generic [ref=e67]:
+    - generic [ref=e68]:
+      - generic [ref=e70]: ⚡ Réponse Garantie < 1H • Expert Dédié • Audit Gratuit €2,500
+      - heading "🚀 Parlons de Votre Projet IA Transformation Garantie" [level=1] [ref=e71]:
+        - generic [ref=e72]: 🚀 Parlons de Votre Projet IA
+        - text: Transformation
+        - generic [ref=e73]: Garantie
+      - paragraph [ref=e74]:
+        - text: 🎯
+        - strong [ref=e75]: "ENGAGEMENT UNIQUE :"
+        - text: Votre projet IA déployé avec succès ou
+        - strong [ref=e76]: REMBOURSÉ INTÉGRALEMENT
+        - text: . Audit gratuit
+        - strong [ref=e77]: €2,500
+        - text: + expert dédié +
+        - strong [ref=e78]: réponse < 1H
+        - text: = Votre réussite garantie !
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - img [ref=e81]
+          - generic [ref=e84]: 1,847
+          - generic [ref=e85]: Projets Réussis
+        - generic [ref=e86]:
+          - img [ref=e87]
+          - generic [ref=e90]: < 47min
+          - generic [ref=e91]: Temps Réponse Moy.
+        - generic [ref=e92]:
+          - img [ref=e93]
+          - generic [ref=e95]: 99.2%
+          - generic [ref=e96]: Taux Satisfaction
+        - generic [ref=e97]:
+          - img [ref=e98]
+          - generic [ref=e100]: €2,500
+          - generic [ref=e101]: Audits Gratuits
+      - generic [ref=e102]:
+        - heading "🔥 Demandes Traitées Aujourd'hui" [level=3] [ref=e104]
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - generic [ref=e107]:
+              - generic [ref=e108]: LM
+              - generic [ref=e109]:
+                - generic [ref=e110]: La Mutuelle
+                - generic [ref=e111]: Il y a 23 min
+            - generic [ref=e112]: "\"Audit reçu en 35 min • Proposition sous 2H • Contrat signé !\""
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - generic [ref=e115]: PE
+              - generic [ref=e116]:
+                - generic [ref=e117]: Peugeot
+                - generic [ref=e118]: Il y a 1H 12min
+            - generic [ref=e119]: "\"Expert sur site demain matin • Démarrage projet validé\""
+          - generic [ref=e120]:
+            - generic [ref=e121]:
+              - generic [ref=e122]: MC
+              - generic [ref=e123]:
+                - generic [ref=e124]: Ministère Culture
+                - generic [ref=e125]: Il y a 2H 05min
+            - generic [ref=e126]: "\"Conformité RGPD validée • Budget débloqué • Go !\""
+      - generic [ref=e127]:
+        - generic [ref=e129]:
+          - img [ref=e130]
+          - generic [ref=e132]: "🚨 URGENT : Plus que 39 créneaux expert cette semaine"
+        - generic [ref=e134]:
+          - img [ref=e135]
+          - generic [ref=e137]: "✅ GARANTI : Succès projet ou remboursement intégral"
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - generic [ref=e140]: GRATUIT
+          - generic [ref=e141] [cursor=pointer]:
+            - img [ref=e142] [cursor=pointer]
+            - text: 🎯 RÉSERVER MON AUDIT GRATUIT
+        - button "💬 EXPERT EN DIRECT MAINTENANT" [ref=e145] [cursor=pointer]:
+          - img [ref=e146] [cursor=pointer]
+          - text: 💬 EXPERT EN DIRECT MAINTENANT
+    - generic [ref=e148]:
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - heading "Informations de contact" [level=2] [ref=e151]
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - img [ref=e155]
+              - generic [ref=e158]:
+                - generic [ref=e159]:
+                  - heading "Email Prioritaire" [level=3] [ref=e160]
+                  - generic [ref=e161]: URGENT
+                - paragraph [ref=e162]: priority@local-ai.fr
+                - paragraph [ref=e163]: Réponse immédiate < 1h
+            - generic [ref=e164]:
+              - img [ref=e166]
+              - generic [ref=e169]:
+                - heading "Email Standard" [level=3] [ref=e171]
+                - paragraph [ref=e172]: contact@local-ai.fr
+                - paragraph [ref=e173]: Réponse sous 4h ouvrées
+            - generic [ref=e174]:
+              - img [ref=e176]
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - heading "Ligne Directe Urgences" [level=3] [ref=e180]
+                  - generic [ref=e181]: URGENT
+                - paragraph [ref=e182]: +33 1 23 45 67 90
+                - paragraph [ref=e183]: 7j/7 - 24h/24
+            - generic [ref=e184]:
+              - img [ref=e186]
+              - generic [ref=e188]:
+                - heading "Standard Commercial" [level=3] [ref=e190]
+                - paragraph [ref=e191]: +33 1 23 45 67 89
+                - paragraph [ref=e192]: Lun-Ven 9h-19h
+            - generic [ref=e193]:
+              - img [ref=e195]
+              - generic [ref=e198]:
+                - heading "Adresse Principale" [level=3] [ref=e200]
+                - paragraph [ref=e201]: 156 Rue de Charonne
+                - paragraph [ref=e202]: 75011 Paris, France
+            - generic [ref=e203]:
+              - img [ref=e205]
+              - generic [ref=e208]:
+                - heading "SLA Garanti" [level=3] [ref=e210]
+                - paragraph [ref=e211]: 99.9%
+                - paragraph [ref=e212]: Temps de réponse contracté
+        - generic [ref=e213]:
+          - heading "Nos bureaux" [level=2] [ref=e214]
+          - img [ref=e216]
+          - paragraph [ref=e219]: Paris (Siège) • Lyon • Marseille • Bordeaux
+          - generic [ref=e220]:
+            - link "📺 Planifier une démo" [ref=e221] [cursor=pointer]:
+              - /url: /demo
+            - link "📚 Consulter la documentation" [ref=e222] [cursor=pointer]:
+              - /url: /documentation
+            - button "💬 Chat IA 24/7" [ref=e223] [cursor=pointer]
+      - generic [ref=e225]:
+        - heading "Envoyez-nous un message" [level=2] [ref=e226]
+        - generic [ref=e227]:
+          - generic [ref=e228]:
+            - generic [ref=e229]:
+              - generic [ref=e230]:
+                - img [ref=e231]
+                - text: Nom complet
+              - textbox "Votre nom" [active] [ref=e234]: Test User
+            - generic [ref=e235]:
+              - generic [ref=e236]:
+                - img [ref=e237]
+                - text: Entreprise
+              - textbox "Nom de votre entreprise" [ref=e240]
+            - generic [ref=e241]:
+              - generic [ref=e242]: Email
+              - textbox "votre@email.com" [ref=e243]
+            - generic [ref=e244]:
+              - generic [ref=e245]: Téléphone
+              - textbox "+33 1 23 45 67 89" [ref=e246]
+          - generic [ref=e247]:
+            - generic [ref=e248]:
+              - generic [ref=e249]: Secteur d'activité *
+              - combobox [ref=e250]:
+                - option "Sélectionnez votre secteur" [selected]
+                - option "Finance & Banque"
+                - option "Santé & Pharmaceutique"
+                - option "Éducation & Recherche"
+                - option "Secteur Public"
+                - option "Juridique & Compliance"
+                - option "Retail & E-commerce"
+                - option "Industrie & Manufacturing"
+                - option "Assurance"
+                - option "Énergie & Utilities"
+                - option "Télécommunications"
+                - option "Transport & Logistique"
+                - option "Autre"
+            - generic [ref=e251]:
+              - generic [ref=e252]: Taille de l'entreprise
+              - combobox [ref=e253]:
+                - option "Taille entreprise" [selected]
+                - option "TPE (1-9 employés)"
+                - option "PME (10-249 employés)"
+                - option "ETI (250-4999 employés)"
+                - option "Grande Entreprise (5000+ employés)"
+                - option "Administration/Organisme Public"
+          - generic [ref=e254]:
+            - generic [ref=e255]: Sujet de votre demande *
+            - combobox [ref=e256]:
+              - option "Sélectionnez votre besoin" [selected]
+              - option "Démonstration personnalisée"
+              - option "Analyse ROI & Business Case"
+              - option "Accompagnement déploiement"
+              - option "Audit conformité & sécurité"
+              - option "Intégration & APIs"
+              - option "Formation & accompagnement"
+              - option "Support technique"
+              - option "Partenariat commercial"
+              - option "Investissement & financement"
+              - option "Autre demande"
+          - generic [ref=e257]:
+            - generic [ref=e258]:
+              - generic [ref=e259]: Budget indicatif
+              - combobox [ref=e260]:
+                - option "Budget indicatif" [selected]
+                - option "Moins de 10k€"
+                - option "10k€ - 50k€"
+                - option "50k€ - 100k€"
+                - option "100k€ - 500k€"
+                - option "Plus de 500k€"
+                - option "À définir"
+            - generic [ref=e261]:
+              - generic [ref=e262]: Timeline du projet
+              - combobox [ref=e263]:
+                - option "Sélectionnez votre timeline" [selected]
+                - option "Immédiat (< 1 mois)"
+                - option "Court terme (1-3 mois)"
+                - option "Moyen terme (3-6 mois)"
+                - option "Long terme (6-12 mois)"
+                - option "Exploratoire (> 12 mois)"
+          - generic [ref=e264]:
+            - generic [ref=e265]:
+              - generic [ref=e266]: Priorité de la demande
+              - combobox [ref=e267]:
+                - option "Niveau de priorité" [selected]
+                - option "Très urgent"
+                - option "Urgent"
+                - option "Normal"
+                - option "Faible priorité"
+            - generic [ref=e268]:
+              - generic [ref=e269]: Mode de contact préféré
+              - combobox [ref=e270]:
+                - option "Comment préférez-vous être contacté ?" [selected]
+                - option "Email"
+                - option "Téléphone"
+                - option "Visioconférence"
+                - option "Rendez-vous physique"
+          - generic [ref=e271]:
+            - generic [ref=e272]: Principal défi ou problème actuel
+            - textbox "Quel est votre principal défi business ou technique que l'IA pourrait résoudre ?" [ref=e273]
+          - generic [ref=e274]:
+            - generic [ref=e275]: Objectifs spécifiques
+            - textbox "Quels résultats concrets attendez-vous ? (gain de temps, réduction des coûts, amélioration qualité...)" [ref=e276]
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - img [ref=e279]
+              - text: Message
+            - textbox "Décrivez votre projet ou votre question..." [ref=e281]
+          - generic [ref=e282]:
+            - heading "⏰ RÉPONSE GARANTIE SOUS 1 HEURE" [level=3] [ref=e284]
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - generic [ref=e287]: ⚡ 0-1H
+                - generic [ref=e288]: Confirmation réception + Expert assigné
+              - generic [ref=e289]:
+                - generic [ref=e290]: 📞 1-4H
+                - generic [ref=e291]: Audit gratuit personnalisé €2,500
+              - generic [ref=e292]:
+                - generic [ref=e293]: 🎯 4-24H
+                - generic [ref=e294]: Proposition commerciale détaillée
+            - generic [ref=e296]: 🚨 Plus que 39 créneaux expert cette semaine • Priorité aux demandes complètes
+          - button "GRATUIT 🚀 LANCER MON PROJET IA Audit €2,500 • Réponse < 1H • Expert dédié" [ref=e298] [cursor=pointer]:
+            - generic [ref=e299] [cursor=pointer]: GRATUIT
+            - img [ref=e300] [cursor=pointer]
+            - text: 🚀 LANCER MON PROJET IA
+            - generic [ref=e303] [cursor=pointer]: Audit €2,500 • Réponse < 1H • Expert dédié
+    - generic [ref=e305]:
+      - generic [ref=e306]:
+        - heading "🎯 POURQUOI CHOISIR LOCAL AI MAINTENANT ?" [level=2] [ref=e307]
+        - paragraph [ref=e308]:
+          - strong [ref=e309]: "ENGAGEMENT TOTAL :"
+          - text: Votre succès IA garanti ou remboursement intégral
+      - generic [ref=e310]:
+        - generic [ref=e311]:
+          - heading "Nos Garanties Uniques" [level=3] [ref=e312]:
+            - img [ref=e313]
+            - text: Nos Garanties Uniques
+          - list [ref=e315]:
+            - listitem [ref=e316]:
+              - img [ref=e317]
+              - strong [ref=e320]: Succès projet garanti ou remboursement 100%
+            - listitem [ref=e321]:
+              - img [ref=e322]
+              - strong [ref=e325]: Audit gratuit €2,500 sans engagement
+            - listitem [ref=e326]:
+              - img [ref=e327]
+              - strong [ref=e330]: Réponse expert < 1H garantie contractuelle
+            - listitem [ref=e331]:
+              - img [ref=e332]
+              - strong [ref=e335]: Support 24/7 pendant toute la durée projet
+            - listitem [ref=e336]:
+              - img [ref=e337]
+              - strong [ref=e340]: Conformité RGPD/AI Act certifiée
+        - generic [ref=e341]:
+          - heading "Urgence Réelle" [level=3] [ref=e342]:
+            - img [ref=e343]
+            - text: Urgence Réelle
+          - list [ref=e345]:
+            - listitem [ref=e346]:
+              - img [ref=e347]
+              - strong [ref=e351]: Plus que 39 créneaux expert cette semaine
+            - listitem [ref=e352]:
+              - img [ref=e353]
+              - strong [ref=e357]: 41 licences à vie restantes seulement
+            - listitem [ref=e358]:
+              - img [ref=e359]
+              - strong [ref=e363]: Offre audit gratuit expire 31 décembre
+            - listitem [ref=e364]:
+              - img [ref=e365]
+              - strong [ref=e369]: Vos concurrents s'équipent maintenant
+            - listitem [ref=e370]:
+              - img [ref=e371]
+              - strong [ref=e375]: Retard = désavantage concurrentiel permanent
+      - generic [ref=e376]:
+        - heading "✅ Dernières Conversions (Temps Réel)" [level=3] [ref=e378]
+        - generic [ref=e379]:
+          - generic [ref=e380]:
+            - generic [ref=e381]: "23"
+            - generic [ref=e382]: Projets signés aujourd'hui
+          - generic [ref=e383]:
+            - generic [ref=e384]: "156"
+            - generic [ref=e385]: Audits gratuits cette semaine
+          - generic [ref=e386]:
+            - generic [ref=e387]: €4.2M
+            - generic [ref=e388]: CA généré ce mois
+          - generic [ref=e389]:
+            - generic [ref=e390]: "39"
+            - generic [ref=e391]: Places restantes
+      - generic [ref=e392]:
+        - generic [ref=e393]:
+          - button "💬 EXPERT DISPONIBLE MAINTENANT" [ref=e394] [cursor=pointer]:
+            - img [ref=e395] [cursor=pointer]
+            - text: 💬 EXPERT DISPONIBLE MAINTENANT
+          - link "💰 CALCULER MON ROI AVANT" [ref=e397] [cursor=pointer]:
+            - /url: /roi-calculator
+            - img [ref=e398] [cursor=pointer]
+            - text: 💰 CALCULER MON ROI AVANT
+        - paragraph [ref=e401]: "⏰ Plus que quelques heures : Tarif licence à vie expire définitivement à minuit"
+  - generic [ref=e403]:
+    - img [ref=e406]
+    - heading "Besoin d'une réponse immédiate ?" [level=2] [ref=e408]
+    - paragraph [ref=e409]: Notre assistant IA Local AI est disponible 24/7 pour répondre instantanément à vos questions techniques, vous guider dans l'implémentation de votre projet ou vous aider à résoudre vos problèmes.
+    - generic [ref=e410]:
+      - button "Support urgente 24/7" [ref=e411] [cursor=pointer]:
+        - img [ref=e412] [cursor=pointer]
+        - generic [ref=e414] [cursor=pointer]: Assistant IA 24/7
+        - img [ref=e415] [cursor=pointer]
+      - generic [ref=e420]: IA disponible maintenant
+    - generic [ref=e421]:
+      - generic [ref=e424]: Réponse instantanée
+      - generic [ref=e427]: IA spécialisée Local AI
+      - generic [ref=e430]: Toujours disponible
+  - contentinfo [ref=e431]:
+    - generic [ref=e432]:
+      - generic [ref=e433]:
+        - generic [ref=e434]:
+          - generic [ref=e435]:
+            - img [ref=e436]
+            - generic [ref=e446]:
+              - heading "Local AI Ecosystem" [level=3] [ref=e447]
+              - paragraph [ref=e448]: L'IA Souveraine pour l'Entreprise
+          - paragraph [ref=e449]: Transformez vos défis d'IA en avantages concurrentiels avec notre écosystème complet auto-hébergé. Sécurité maximale, conformité garantie, ROI prouvé.
+          - generic [ref=e450]:
+            - generic [ref=e451]:
+              - generic [ref=e452]: 500+
+              - generic [ref=e453]: Entreprises
+            - generic [ref=e454]:
+              - generic [ref=e455]: €12M+
+              - generic [ref=e456]: Économisés
+          - generic [ref=e457]:
+            - heading "Restez informé des évolutions IA" [level=4] [ref=e458]
+            - generic [ref=e459]:
+              - textbox "votre@email.com" [ref=e460]
+              - button "OK" [ref=e461] [cursor=pointer]
+        - generic [ref=e462]:
+          - heading "Services IA" [level=4] [ref=e463]:
+            - img [ref=e464]
+            - text: Services IA
+          - list [ref=e469]:
+            - listitem [ref=e470]:
+              - link "Ollama (LLM Local)" [ref=e471] [cursor=pointer]:
+                - /url: /services/ollama
+                - img [ref=e472] [cursor=pointer]
+                - text: Ollama (LLM Local)
+            - listitem [ref=e482]:
+              - link "N8N (Automation)" [ref=e483] [cursor=pointer]:
+                - /url: /services/n8n
+                - img [ref=e484] [cursor=pointer]
+                - text: N8N (Automation)
+            - listitem [ref=e488]:
+              - link "Qdrant (Vector DB)" [ref=e489] [cursor=pointer]:
+                - /url: /services/qdrant
+                - img [ref=e490] [cursor=pointer]
+                - text: Qdrant (Vector DB)
+            - listitem [ref=e494]:
+              - link "Open WebUI" [ref=e495] [cursor=pointer]:
+                - /url: /services/open-webui
+                - img [ref=e496] [cursor=pointer]
+                - text: Open WebUI
+            - listitem [ref=e499]:
+              - link "Supabase" [ref=e500] [cursor=pointer]:
+                - /url: /services/supabase
+                - img [ref=e501] [cursor=pointer]
+                - text: Supabase
+            - listitem [ref=e504]:
+              - link "SearXNG (Search)" [ref=e505] [cursor=pointer]:
+                - /url: /services/searxng
+                - img [ref=e506] [cursor=pointer]
+                - text: SearXNG (Search)
+            - listitem [ref=e509]:
+              - link "Neo4j (Graph DB)" [ref=e510] [cursor=pointer]:
+                - /url: /services/neo4j
+                - img [ref=e511] [cursor=pointer]
+                - text: Neo4j (Graph DB)
+            - listitem [ref=e515]:
+              - link "Langfuse (Observability)" [ref=e516] [cursor=pointer]:
+                - /url: /services/langfuse
+                - img [ref=e517] [cursor=pointer]
+                - text: Langfuse (Observability)
+        - generic [ref=e520]:
+          - heading "Solutions Business" [level=4] [ref=e521]:
+            - img [ref=e522]
+            - text: Solutions Business
+          - list [ref=e525]:
+            - listitem [ref=e526]:
+              - link "Finance & Banque" [ref=e527] [cursor=pointer]:
+                - /url: /solutions/finance
+                - img [ref=e528] [cursor=pointer]
+                - text: Finance & Banque
+            - listitem [ref=e531]:
+              - link "Legal & Conseil" [ref=e532] [cursor=pointer]:
+                - /url: /solutions/legal
+                - img [ref=e533] [cursor=pointer]
+                - text: Legal & Conseil
+            - listitem [ref=e537]:
+              - link "Manufacturing" [ref=e538] [cursor=pointer]:
+                - /url: /solutions/manufacturing
+                - img [ref=e539] [cursor=pointer]
+                - text: Manufacturing
+            - listitem [ref=e541]:
+              - link "Santé & Pharmaceutique" [ref=e542] [cursor=pointer]:
+                - /url: /solutions/healthcare
+                - img [ref=e543] [cursor=pointer]
+                - text: Santé & Pharmaceutique
+            - listitem [ref=e545]:
+              - link "Secteur Public" [ref=e546] [cursor=pointer]:
+                - /url: /solutions/public
+                - img [ref=e547] [cursor=pointer]
+                - text: Secteur Public
+            - listitem [ref=e549]:
+              - link "Éducation & Formation" [ref=e550] [cursor=pointer]:
+                - /url: /solutions/education
+                - img [ref=e551] [cursor=pointer]
+                - text: Éducation & Formation
+            - listitem [ref=e556]:
+              - link "Retail & E-commerce" [ref=e557] [cursor=pointer]:
+                - /url: /solutions/retail
+                - img [ref=e558] [cursor=pointer]
+                - text: Retail & E-commerce
+          - link "Calculer Mon ROI" [ref=e564] [cursor=pointer]:
+            - /url: /roi-calculator
+            - img [ref=e565] [cursor=pointer]
+            - text: Calculer Mon ROI
+        - generic [ref=e567]:
+          - heading "Navigation" [level=4] [ref=e568]:
+            - img [ref=e569]
+            - text: Navigation
+          - list [ref=e574]:
+            - listitem [ref=e575]:
+              - link "Écosystème" [ref=e576] [cursor=pointer]:
+                - /url: /ecosystem
+                - img [ref=e577] [cursor=pointer]
+                - text: Écosystème
+            - listitem [ref=e582]:
+              - link "Solutions" [ref=e583] [cursor=pointer]:
+                - /url: /solutions
+                - img [ref=e584] [cursor=pointer]
+                - text: Solutions
+            - listitem [ref=e586]:
+              - link "Expertise" [ref=e587] [cursor=pointer]:
+                - /url: /expertise
+                - img [ref=e588] [cursor=pointer]
+                - text: Expertise
+            - listitem [ref=e593]:
+              - link "Ressources" [ref=e594] [cursor=pointer]:
+                - /url: /resources
+                - img [ref=e595] [cursor=pointer]
+                - text: Ressources
+            - listitem [ref=e597]:
+              - link "À propos" [ref=e598] [cursor=pointer]:
+                - /url: /about
+                - img [ref=e599] [cursor=pointer]
+                - text: À propos
+      - generic [ref=e602]:
+        - generic [ref=e603]: © 2024 Local AI Ecosystem. Tous droits réservés.
+        - generic [ref=e604]:
+          - generic [ref=e605]:
+            - img [ref=e606]
+            - generic [ref=e608]: RGPD Compliant
+          - generic [ref=e609]:
+            - img [ref=e610]
+            - generic [ref=e614]: AI Act Ready
+          - generic [ref=e615]:
+            - img [ref=e616]
+            - generic [ref=e619]: 🇪🇺 Souveraineté EU
+```
